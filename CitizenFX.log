@@ -1,0 +1,2264 @@
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       141] Found new resource fivem in C:/fivem/resources//fivem
+[       156] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       172] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       187] Found new resource runcode in C:/fivem/resources//runcode
+[       203] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       203] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       219] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       234] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       234] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       266] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       281] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       281] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       297] Found new resource chat in C:/fivem/resources//[system]/chat
+[       312] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       312] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       328] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       359] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       391] Found new resource keks in C:/fivem/resources//[test]/keks
+[       437] Started resource sessionmanager
+[       469] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        32] Hello!
+[       125] Found new resource fivem in C:/fivem/resources//fivem
+[       141] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       157] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       172] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       188] Found new resource runcode in C:/fivem/resources//runcode
+[       188] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       219] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       219] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       235] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       250] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       266] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       282] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       297] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       297] Found new resource chat in C:/fivem/resources//[system]/chat
+[       313] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       329] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       344] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       360] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       375] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       391] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       407] Found new resource keks in C:/fivem/resources//[test]/keks
+[       454] Started resource sessionmanager
+[       500] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       125] Found new resource fivem in C:/fivem/resources//fivem
+[       141] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       156] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       172] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       172] Found new resource runcode in C:/fivem/resources//runcode
+[       188] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       203] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       219] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       219] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       235] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       266] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       281] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       297] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       297] Found new resource chat in C:/fivem/resources//[system]/chat
+[       313] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       328] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       344] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       360] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       375] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       375] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       391] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       406] Found new resource keks in C:/fivem/resources//[test]/keks
+[       469] Started resource sessionmanager
+[     10313] Started resource mapmanager
+[     10328] Started resource chat
+[     10344] Started resource spawnmanager
+[     10344] Started resource fivem
+[     10344] Started gametype Freeroam
+[     10360] Started resource hardcap
+[     10375] Started resource rconlog
+[     10391] Started resource scoreboard
+[     10406] Started resource playernames
+[     10422] Authenticating server license key...
+[     12016] Server license key authentication succeeded. Welcome!
+[     12172] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[     12188] Sending heartbeat to live-internal.fivem.net:30110
+[     12188] Started resource fivem-map-hipster
+[     12203] Started map fivem-map-hipster
+[    192250] Sending heartbeat to live-internal.fivem.net:30110
+[    322406] Initializing Mono
+[    322438] Initializing Mono completed
+[    322453] Hello!
+[    322578] Found new resource fivem in C:/fivem2/resources//fivem
+[    322594] Found new resource fivem-awesome1501 in C:/fivem2/resources//fivem-awesome1501
+[    322594] Found new resource fivem-map-hipster in C:/fivem2/resources//fivem-map-hipster
+[    322610] Found new resource fivem-map-skater in C:/fivem2/resources//fivem-map-skater
+[    322625] Found new resource runcode in C:/fivem2/resources//runcode
+[    322625] Found new resource race in C:/fivem2/resources//[gamemodes]/race
+[    322641] Found new resource race-test in C:/fivem2/resources//[gamemodes]/race-test
+[    322656] Found new resource channelfeed in C:/fivem2/resources//[gameplay]/channelfeed
+[    322672] Found new resource irc in C:/fivem2/resources//[gameplay]/irc
+[    322688] Found new resource obituary in C:/fivem2/resources//[gameplay]/obituary
+[    322703] Found new resource obituary-deaths in C:/fivem2/resources//[gameplay]/obituary-deaths
+[    322703] Found new resource playernames in C:/fivem2/resources//[gameplay]/playernames
+[    322719] Found new resource mapmanager in C:/fivem2/resources//[managers]/mapmanager
+[    322735] Found new resource baseevents in C:/fivem2/resources//[system]/baseevents
+[    322750] Found new resource chat in C:/fivem2/resources//[system]/chat
+[    322766] Found new resource hardcap in C:/fivem2/resources//[system]/hardcap
+[    322781] Found new resource rconlog in C:/fivem2/resources//[system]/rconlog
+[    322797] Found new resource scoreboard in C:/fivem2/resources//[system]/scoreboard
+[    322813] Found new resource sessionmanager in C:/fivem2/resources//[system]/sessionmanager
+[    322828] Found new resource spawnmanager in C:/fivem2/resources//[system]/spawnmanager
+[    322844] Found new resource betaguns in C:/fivem2/resources//[test]/betaguns
+[    322844] Found new resource gameInit in C:/fivem2/resources//[test]/gameInit
+[    322860] Found new resource keks in C:/fivem2/resources//[test]/keks
+[    322906] Started resource sessionmanager
+[    322938] Started resource mapmanager
+[    322953] Started resource chat
+[    322969] Started resource spawnmanager
+[    322985] Started resource fivem
+[    322985] Started gametype Freeroam
+[    323000] Started resource hardcap
+[    323016] Started resource rconlog
+[    323031] Started resource scoreboard
+[    323047] Started resource playernames
+[    323047] Authenticating server license key...
+[    324891] Server license key authentication succeeded. Welcome!
+[    325031] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[    325031] Sending heartbeat to live-internal.fivem.net:30110
+[    325047] Started resource fivem-map-skater
+[    325063] Started map fivem-map-skater
+[    372266] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        32] Initializing Mono completed
+[        47] Hello!
+[       172] Found new resource fivem in C:/fivem/resources//fivem
+[       188] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       188] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       203] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       219] Found new resource runcode in C:/fivem/resources//runcode
+[       235] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       235] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       250] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       266] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       282] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       297] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       313] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       328] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       344] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       360] Found new resource chat in C:/fivem/resources//[system]/chat
+[       360] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       375] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       391] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       407] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       422] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       438] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       453] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       469] Found new resource keks in C:/fivem/resources//[test]/keks
+[       516] Started resource sessionmanager
+[       547] Started resource mapmanager
+[       563] Started resource chat
+[       578] Started resource spawnmanager
+[       578] Started resource fivem
+[       594] Started gametype Freeroam
+[       594] Started resource hardcap
+[       610] Started resource rconlog
+[       625] Started resource scoreboard
+[       641] Started resource playernames
+[       641] Authenticating server license key...
+[      2469] Server license key authentication succeeded. Welcome!
+[      2563] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2578] Sending heartbeat to live-internal.fivem.net:30110
+[      2578] Started resource fivem-map-hipster
+[      2594] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        32] Hello!
+[       125] ^3Couldn't find resource sessionmanager.^7
+[       157] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        32] Hello!
+[       172] Found new resource fivem in C:/fivem/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       188] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       204] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       204] Found new resource runcode in C:/fivem/resources//runcode
+[       219] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       235] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       235] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       250] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       250] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       266] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       282] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       297] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       297] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       313] Found new resource chat in C:/fivem/resources//[system]/chat
+[       313] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       329] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       344] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       360] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       375] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       391] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       391] Found new resource keks in C:/fivem/resources//[test]/keks
+[       454] Started resource sessionmanager
+[       485] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[       140] Found new resource fivem in C:/fivem/resources//fivem
+[       156] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       172] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       187] Found new resource runcode in C:/fivem/resources//runcode
+[       203] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       219] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       219] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       234] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       234] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       265] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       281] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       297] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       297] Found new resource chat in C:/fivem/resources//[system]/chat
+[       312] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       328] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       328] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       359] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       390] Found new resource keks in C:/fivem/resources//[test]/keks
+[       437] Started resource sessionmanager
+[       453] Started resource mapmanager
+[       469] Started resource chat
+[       484] Started resource spawnmanager
+[       484] Started resource fivem
+[       484] Started gametype Freeroam
+[       500] Started resource hardcap
+[       515] Started resource rconlog
+[       515] Started resource scoreboard
+[       531] Started resource playernames
+[       531] Authenticating server license key...
+[      2344] Server license key authentication succeeded. Welcome!
+[      2469] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2469] Sending heartbeat to live-internal.fivem.net:30110
+[      2484] Started resource fivem-map-hipster
+[      2484] Started map fivem-map-hipster
+[    182500] Sending heartbeat to live-internal.fivem.net:30110
+[    362531] Sending heartbeat to live-internal.fivem.net:30110
+[    542578] Sending heartbeat to live-internal.fivem.net:30110
+[    722609] Sending heartbeat to live-internal.fivem.net:30110
+[    902625] Sending heartbeat to live-internal.fivem.net:30110
+[   1082640] Sending heartbeat to live-internal.fivem.net:30110
+[   1262672] Sending heartbeat to live-internal.fivem.net:30110
+[   1442687] Sending heartbeat to live-internal.fivem.net:30110
+[   1622750] Sending heartbeat to live-internal.fivem.net:30110
+[   1802797] Sending heartbeat to live-internal.fivem.net:30110
+[   1982844] Sending heartbeat to live-internal.fivem.net:30110
+[   2162875] Sending heartbeat to live-internal.fivem.net:30110
+[   2342922] Sending heartbeat to live-internal.fivem.net:30110
+[   2522969] Sending heartbeat to live-internal.fivem.net:30110
+[   2702969] Sending heartbeat to live-internal.fivem.net:30110
+[   2883015] Sending heartbeat to live-internal.fivem.net:30110
+[   3063062] Sending heartbeat to live-internal.fivem.net:30110
+[   3243094] Sending heartbeat to live-internal.fivem.net:30110
+[   3423109] Sending heartbeat to live-internal.fivem.net:30110
+[   3603172] Sending heartbeat to live-internal.fivem.net:30110
+[   3783172] Sending heartbeat to live-internal.fivem.net:30110
+[   3963234] Sending heartbeat to live-internal.fivem.net:30110
+[   4143250] Sending heartbeat to live-internal.fivem.net:30110
+[   4323297] Sending heartbeat to live-internal.fivem.net:30110
+[   4503312] Sending heartbeat to live-internal.fivem.net:30110
+[   4683375] Sending heartbeat to live-internal.fivem.net:30110
+[   4863375] Sending heartbeat to live-internal.fivem.net:30110
+[   5043406] Sending heartbeat to live-internal.fivem.net:30110
+[   5223453] Sending heartbeat to live-internal.fivem.net:30110
+[   5403500] Sending heartbeat to live-internal.fivem.net:30110
+[   5583562] Sending heartbeat to live-internal.fivem.net:30110
+[   5763594] Sending heartbeat to live-internal.fivem.net:30110
+[   5943625] Sending heartbeat to live-internal.fivem.net:30110
+[   6123672] Sending heartbeat to live-internal.fivem.net:30110
+[   6303719] Sending heartbeat to live-internal.fivem.net:30110
+[   6483765] Sending heartbeat to live-internal.fivem.net:30110
+[   6663812] Sending heartbeat to live-internal.fivem.net:30110
+[   6843844] Sending heartbeat to live-internal.fivem.net:30110
+[   7023890] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        32] Hello!
+[       157] Found new resource fivem in C:/fivem/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       203] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       219] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       235] Found new resource runcode in C:/fivem/resources//runcode
+[       250] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       266] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       282] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       282] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       297] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       328] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       344] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       344] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       360] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       375] Found new resource chat in C:/fivem/resources//[system]/chat
+[       391] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       407] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       407] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       422] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       438] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       453] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       453] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       469] Found new resource keks in C:/fivem/resources//[test]/keks
+[       532] Started resource sessionmanager
+[       547] Started resource mapmanager
+[       563] Started resource chat
+[       578] Started resource spawnmanager
+[       578] Started resource fivem
+[       578] Started gametype Freeroam
+[       594] Started resource hardcap
+[       610] Started resource rconlog
+[       625] Started resource scoreboard
+[       641] Started resource playernames
+[       641] Authenticating server license key...
+[      2094] Server license key authentication succeeded. Welcome!
+[      2250] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2250] Sending heartbeat to live-internal.fivem.net:30110
+[      2266] Started resource fivem-map-hipster
+[      2266] Started map fivem-map-hipster
+[      7610] Connecting: HnomKenG
+[      8703] Sending heartbeat to live-internal.fivem.net:30110
+[    154422] Sending heartbeat to live-internal.fivem.net:30110
+[    334485] Sending heartbeat to live-internal.fivem.net:30110
+[    514500] Sending heartbeat to live-internal.fivem.net:30110
+[    694532] Sending heartbeat to live-internal.fivem.net:30110
+[    731875] Connecting: senseser
+[    733047] Sending heartbeat to live-internal.fivem.net:30110
+[    758625] Connecting: HnomKenG
+[    758813] Sending heartbeat to live-internal.fivem.net:30110
+[    778188] Sending heartbeat to live-internal.fivem.net:30110
+[    867407] Sending heartbeat to live-internal.fivem.net:30110
+[   1047422] Sending heartbeat to live-internal.fivem.net:30110
+[   1227469] Sending heartbeat to live-internal.fivem.net:30110
+[   1407532] Sending heartbeat to live-internal.fivem.net:30110
+[   1587532] Sending heartbeat to live-internal.fivem.net:30110
+[   1767578] Sending heartbeat to live-internal.fivem.net:30110
+[   1947610] Sending heartbeat to live-internal.fivem.net:30110
+[   2127625] Sending heartbeat to live-internal.fivem.net:30110
+[   2307657] Sending heartbeat to live-internal.fivem.net:30110
+[   2487703] Sending heartbeat to live-internal.fivem.net:30110
+[   2667735] Sending heartbeat to live-internal.fivem.net:30110
+[   2847782] Sending heartbeat to live-internal.fivem.net:30110
+[   3027813] Sending heartbeat to live-internal.fivem.net:30110
+[   3207844] Sending heartbeat to live-internal.fivem.net:30110
+[   3366375] Connecting: JustKidding
+[   3368157] Sending heartbeat to live-internal.fivem.net:30110
+[   3548203] Sending heartbeat to live-internal.fivem.net:30110
+[   3728235] Sending heartbeat to live-internal.fivem.net:30110
+[   3908282] Sending heartbeat to live-internal.fivem.net:30110
+[   4088328] Sending heartbeat to live-internal.fivem.net:30110
+[   4091375] Sending heartbeat to live-internal.fivem.net:30110
+[   4271407] Sending heartbeat to live-internal.fivem.net:30110
+[   4451422] Sending heartbeat to live-internal.fivem.net:30110
+[   4631438] Sending heartbeat to live-internal.fivem.net:30110
+[   4811469] Sending heartbeat to live-internal.fivem.net:30110
+[   4991500] Sending heartbeat to live-internal.fivem.net:30110
+[   5171500] Sending heartbeat to live-internal.fivem.net:30110
+[   5351516] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       156] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       156] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       172] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       187] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       203] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       203] Found new resource fivem in C:/fivem/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       234] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       250] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       266] Found new resource runcode in C:/fivem/resources//runcode
+[       281] Found new resource client in C:/fivem/resources//[essentials]/client
+[       297] Resource loading for client failed:
+[       297] Could not open resource metadata file C:/fivem/resources//[essentials]/client/__resource.lua.
+[       312] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       328] Found new resource html in C:/fivem/resources//[essentials]/html
+[       344] Resource loading for html failed:
+[       344] Could not open resource metadata file C:/fivem/resources//[essentials]/html/__resource.lua.
+[       344] Found new resource locales in C:/fivem/resources//[essentials]/locales
+[       375] Resource loading for locales failed:
+[       375] Could not open resource metadata file C:/fivem/resources//[essentials]/locales/__resource.lua.
+[       391] Found new resource localization in C:/fivem/resources//[essentials]/localization
+[       406] Resource loading for localization failed:
+[       406] Could not open resource metadata file C:/fivem/resources//[essentials]/localization/__resource.lua.
+[       422] Found new resource server in C:/fivem/resources//[essentials]/server
+[       437] Resource loading for server failed:
+[       437] Could not open resource metadata file C:/fivem/resources//[essentials]/server/__resource.lua.
+[       453] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       469] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       484] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       500] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       500] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       516] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       531] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       547] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       562] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       562] Found new resource chat in C:/fivem/resources//[system]/chat
+[       578] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       594] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       594] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       609] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       625] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       641] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       641] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       656] Found new resource keks in C:/fivem/resources//[test]/keks
+[       703] Started resource sessionmanager
+[       734] Started resource mapmanager
+[       750] Started resource chat
+[       750] Started resource spawnmanager
+[       766] Started resource fivem
+[       766] Started gametype Freeroam
+[       781] Started resource hardcap
+[       797] Started resource rconlog
+[       797] Started resource scoreboard
+[       812] Started resource playernames
+[       828] ^3Couldn't find resource es_extended.^7
+[       828] Could not find dependency es_extended for resource esx_menu_default.
+[       844] ^3Couldn't start resource esx_menu_default.^7
+[       844] Started resource esx_menu_list
+[       859] Started resource esx_menu_dialog
+[       875] Authenticating server license key...
+[      2734] Server license key authentication succeeded. Welcome!
+[      2891] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2891] Sending heartbeat to live-internal.fivem.net:30110
+[      2906] Started resource fivem-map-skater
+[      2906] Started map fivem-map-skater
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[       141] Found new resource async in C:/fivem/resources//async
+[       157] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       172] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       188] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       204] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       204] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       219] Found new resource fivem in C:/fivem/resources//fivem
+[       235] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       235] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       250] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       266] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       282] Found new resource runcode in C:/fivem/resources//runcode
+[       282] Found new resource client in C:/fivem/resources//[essentials]/client
+[       313] Resource loading for client failed:
+[       313] Could not open resource metadata file C:/fivem/resources//[essentials]/client/__resource.lua.
+[       313] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       329] Found new resource html in C:/fivem/resources//[essentials]/html
+[       344] Resource loading for html failed:
+[       344] Could not open resource metadata file C:/fivem/resources//[essentials]/html/__resource.lua.
+[       360] Found new resource locales in C:/fivem/resources//[essentials]/locales
+[       375] Resource loading for locales failed:
+[       375] Could not open resource metadata file C:/fivem/resources//[essentials]/locales/__resource.lua.
+[       391] Found new resource localization in C:/fivem/resources//[essentials]/localization
+[       422] Resource loading for localization failed:
+[       422] Could not open resource metadata file C:/fivem/resources//[essentials]/localization/__resource.lua.
+[       422] Found new resource server in C:/fivem/resources//[essentials]/server
+[       454] Resource loading for server failed:
+[       454] Could not open resource metadata file C:/fivem/resources//[essentials]/server/__resource.lua.
+[       454] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       469] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       485] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       500] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       516] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       532] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       532] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       547] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       563] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       579] Found new resource chat in C:/fivem/resources//[system]/chat
+[       579] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       594] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       610] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       625] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       625] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       641] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       657] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       672] Found new resource keks in C:/fivem/resources//[test]/keks
+[       735] Started resource sessionmanager
+[       782] Started resource mapmanager
+[       797] Started resource chat
+[       797] Started resource spawnmanager
+[       813] Started resource fivem
+[       813] Started gametype Freeroam
+[       829] Started resource hardcap
+[       844] Started resource rconlog
+[       860] Started resource scoreboard
+[       875] Started resource playernames
+[       875] ^3Couldn't find resource es_extended.^7
+[       891] Could not find dependency es_extended for resource esx_menu_default.
+[       891] ^3Couldn't start resource esx_menu_default.^7
+[       907] Started resource esx_menu_list
+[       922] Started resource esx_menu_dialog
+[       922] Authenticating server license key...
+[      2407] Server license key authentication succeeded. Welcome!
+[      2563] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2579] Sending heartbeat to live-internal.fivem.net:30110
+[      2579] Started resource fivem-map-hipster
+[      2579] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       140] Found new resource async in C:/fivem/resources//async
+[       156] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       172] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       187] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       203] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       203] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       218] Found new resource fivem in C:/fivem/resources//fivem
+[       234] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       250] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       265] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       265] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       281] Found new resource runcode in C:/fivem/resources//runcode
+[       297] Found new resource client in C:/fivem/resources//[essentials]/client
+[       312] Resource loading for client failed:
+[       312] Could not open resource metadata file C:/fivem/resources//[essentials]/client/__resource.lua.
+[       312] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       328] Found new resource html in C:/fivem/resources//[essentials]/html
+[       343] Resource loading for html failed:
+[       343] Could not open resource metadata file C:/fivem/resources//[essentials]/html/__resource.lua.
+[       359] Found new resource locales in C:/fivem/resources//[essentials]/locales
+[       375] Resource loading for locales failed:
+[       375] Could not open resource metadata file C:/fivem/resources//[essentials]/locales/__resource.lua.
+[       390] Found new resource localization in C:/fivem/resources//[essentials]/localization
+[       406] Resource loading for localization failed:
+[       406] Could not open resource metadata file C:/fivem/resources//[essentials]/localization/__resource.lua.
+[       406] Found new resource server in C:/fivem/resources//[essentials]/server
+[       437] Resource loading for server failed:
+[       437] Could not open resource metadata file C:/fivem/resources//[essentials]/server/__resource.lua.
+[       437] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       453] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       468] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       484] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       484] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       515] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       531] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       531] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       562] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       562] Found new resource chat in C:/fivem/resources//[system]/chat
+[       578] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       593] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       593] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       609] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       625] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       640] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       656] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       656] Found new resource keks in C:/fivem/resources//[test]/keks
+[       718] Started resource sessionmanager
+[       750] Started resource mapmanager
+[       765] Started resource chat
+[       765] Started resource spawnmanager
+[       781] Started resource fivem
+[       781] Started gametype Freeroam
+[       797] Started resource hardcap
+[       812] Started resource rconlog
+[       812] Started resource scoreboard
+[       828] Started resource playernames
+[       843] Could not find dependency es_extended for resource esx_menu_default.
+[       843] ^3Couldn't start resource esx_menu_default.^7
+[       859] Started resource esx_menu_list
+[       875] Started resource esx_menu_dialog
+[       875] Authenticating server license key...
+[      2172] Server license key authentication succeeded. Welcome!
+[      2234] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2234] Sending heartbeat to live-internal.fivem.net:30110
+[      2250] Started resource fivem-map-skater
+[      2250] Started map fivem-map-skater
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       141] Found new resource async in C:/fivem/resources//async
+[       156] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       156] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       172] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       188] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       188] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       203] Found new resource es_extended in C:/fivem/resources//es_extended
+[       219] Found new resource fivem in C:/fivem/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       234] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       250] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       266] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       281] Found new resource runcode in C:/fivem/resources//runcode
+[       281] Found new resource client in C:/fivem/resources//[essentials]/client
+[       313] Resource loading for client failed:
+[       313] Could not open resource metadata file C:/fivem/resources//[essentials]/client/__resource.lua.
+[       328] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       344] Found new resource html in C:/fivem/resources//[essentials]/html
+[       375] Resource loading for html failed:
+[       375] Could not open resource metadata file C:/fivem/resources//[essentials]/html/__resource.lua.
+[       391] Found new resource locales in C:/fivem/resources//[essentials]/locales
+[       406] Resource loading for locales failed:
+[       406] Could not open resource metadata file C:/fivem/resources//[essentials]/locales/__resource.lua.
+[       422] Found new resource localization in C:/fivem/resources//[essentials]/localization
+[       453] Resource loading for localization failed:
+[       453] Could not open resource metadata file C:/fivem/resources//[essentials]/localization/__resource.lua.
+[       453] Found new resource server in C:/fivem/resources//[essentials]/server
+[       484] Resource loading for server failed:
+[       484] Could not open resource metadata file C:/fivem/resources//[essentials]/server/__resource.lua.
+[       484] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       500] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       516] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       531] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       531] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       547] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       563] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       578] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       594] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       594] Found new resource chat in C:/fivem/resources//[system]/chat
+[       609] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       625] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       641] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       656] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       656] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       672] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       688] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       703] Found new resource keks in C:/fivem/resources//[test]/keks
+[       750] Started resource sessionmanager
+[       766] Started resource mapmanager
+[       797] Started resource chat
+[       797] Started resource spawnmanager
+[       797] Started resource fivem
+[       813] Started gametype Freeroam
+[       813] Started resource hardcap
+[       828] Started resource rconlog
+[       844] Started resource scoreboard
+[       859] Started resource playernames
+[       875] Started resource essentialmode
+[       906] Started resource es_extended
+[       938] Started resource esx_menu_default
+[       938] Started resource esx_menu_list
+[       953] Started resource esx_menu_dialog
+[       953] Authenticating server license key...
+[      2688] Server license key authentication succeeded. Welcome!
+[      2750] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2766] Sending heartbeat to live-internal.fivem.net:30110
+[      2766] 
+[      2766] Current version: 5.0.0
+[      2766] Updater version: 5.0.0
+[      2766] 
+[      2781] Everything is fine!
+[      2781] 
+[      2781] -------------------------------------------------------------
+[      2797] --- No errors detected, essentialmode is setup properly. ---
+[      2797] -------------------------------------------------------------
+[      2813] Started resource fivem-map-hipster
+[      2828] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[       125] Found new resource async in C:/fivem/resources//async
+[       140] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       156] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       156] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       172] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       187] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       187] Found new resource es_extended in C:/fivem/resources//es_extended
+[       203] Found new resource fivem in C:/fivem/resources//fivem
+[       203] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       218] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       234] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       234] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       250] Found new resource runcode in C:/fivem/resources//runcode
+[       265] Found new resource client in C:/fivem/resources//[essentials]/client
+[       281] Resource loading for client failed:
+[       281] Could not open resource metadata file C:/fivem/resources//[essentials]/client/__resource.lua.
+[       281] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       297] Found new resource html in C:/fivem/resources//[essentials]/html
+[       312] Resource loading for html failed:
+[       312] Could not open resource metadata file C:/fivem/resources//[essentials]/html/__resource.lua.
+[       312] Found new resource locales in C:/fivem/resources//[essentials]/locales
+[       343] Resource loading for locales failed:
+[       343] Could not open resource metadata file C:/fivem/resources//[essentials]/locales/__resource.lua.
+[       343] Found new resource localization in C:/fivem/resources//[essentials]/localization
+[       375] Resource loading for localization failed:
+[       375] Could not open resource metadata file C:/fivem/resources//[essentials]/localization/__resource.lua.
+[       375] Found new resource server in C:/fivem/resources//[essentials]/server
+[       390] Resource loading for server failed:
+[       390] Could not open resource metadata file C:/fivem/resources//[essentials]/server/__resource.lua.
+[       406] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       422] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       437] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       437] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       453] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       468] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       468] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       484] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       500] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       500] Found new resource chat in C:/fivem/resources//[system]/chat
+[       515] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       531] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       531] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       547] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       562] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       578] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       578] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       593] Found new resource keks in C:/fivem/resources//[test]/keks
+[       656] Started resource sessionmanager
+[       687] Started resource mapmanager
+[       703] Started resource chat
+[       718] Started resource spawnmanager
+[       718] Started resource fivem
+[       734] Started gametype Freeroam
+[       734] Started resource hardcap
+[       750] Started resource rconlog
+[       765] Started resource scoreboard
+[       781] Started resource playernames
+[       797] Started resource essentialmode
+[       828] Started resource es_extended
+[       859] Started resource esx_menu_default
+[       859] Started resource esx_menu_list
+[       875] Started resource esx_menu_dialog
+[       875] Authenticating server license key...
+[      2234] Server license key authentication succeeded. Welcome!
+[      2297] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2297] Sending heartbeat to live-internal.fivem.net:30110
+[      2312] 
+[      2312] Current version: 5.0.0
+[      2312] Updater version: 5.0.0
+[      2312] 
+[      2312] Everything is fine!
+[      2312] 
+[      2328] -------------------------------------------------------------
+[      2328] --- No errors detected, essentialmode is setup properly. ---
+[      2343] -------------------------------------------------------------
+[      2359] Started resource fivem-map-hipster
+[      2359] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        32] Hello!
+[       125] Found new resource async in C:/fivem/resources//async
+[       141] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       157] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       157] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       172] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       188] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       188] Found new resource es_extended in C:/fivem/resources//es_extended
+[       203] Found new resource fivem in C:/fivem/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       235] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       250] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       266] Found new resource runcode in C:/fivem/resources//runcode
+[       266] Found new resource client in C:/fivem/resources//[essentials]/client
+[       282] Resource loading for client failed:
+[       282] Could not open resource metadata file C:/fivem/resources//[essentials]/client/__resource.lua.
+[       297] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       297] Found new resource html in C:/fivem/resources//[essentials]/html
+[       313] Resource loading for html failed:
+[       313] Could not open resource metadata file C:/fivem/resources//[essentials]/html/__resource.lua.
+[       328] Found new resource locales in C:/fivem/resources//[essentials]/locales
+[       344] Resource loading for locales failed:
+[       344] Could not open resource metadata file C:/fivem/resources//[essentials]/locales/__resource.lua.
+[       360] Found new resource localization in C:/fivem/resources//[essentials]/localization
+[       375] Resource loading for localization failed:
+[       375] Could not open resource metadata file C:/fivem/resources//[essentials]/localization/__resource.lua.
+[       391] Found new resource server in C:/fivem/resources//[essentials]/server
+[       407] Resource loading for server failed:
+[       407] Could not open resource metadata file C:/fivem/resources//[essentials]/server/__resource.lua.
+[       407] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       422] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       422] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       438] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       453] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       469] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       469] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       485] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       500] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       500] Found new resource chat in C:/fivem/resources//[system]/chat
+[       516] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       516] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       532] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       547] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       547] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       563] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       578] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       594] Found new resource keks in C:/fivem/resources//[test]/keks
+[       641] Started resource sessionmanager
+[       672] Started resource mapmanager
+[       688] Started resource chat
+[       688] Started resource spawnmanager
+[       703] Started resource fivem
+[       703] Started gametype Freeroam
+[       719] Started resource hardcap
+[       735] Started resource rconlog
+[       735] Started resource scoreboard
+[       750] Started resource playernames
+[       766] Started resource essentialmode
+[       797] Started resource es_extended
+[       813] Started resource esx_menu_default
+[       813] Started resource esx_menu_list
+[       828] Started resource esx_menu_dialog
+[       844] Started resource esplugin_mysql
+[       844] Authenticating server license key...
+[      2844] Server license key authentication succeeded. Welcome!
+[      3000] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      3000] Sending heartbeat to live-internal.fivem.net:30110
+[      3000] 
+[      3000] Current version: 5.0.0
+[      3016] Updater version: 5.0.0
+[      3016] 
+[      3016] Everything is fine!
+[      3016] 
+[      3032] -------------------------------------------------------------
+[      3032] --- No errors detected, essentialmode is setup properly. ---
+[      3047] -------------------------------------------------------------
+[      3047] Started resource fivem-map-hipster
+[      3063] Started map fivem-map-hipster
+[      3063] hitch warning: frame time of 171 milliseconds
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        47] Hello!
+[       156] Found new resource async in C:/fivem/resources//async
+[       172] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       187] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       203] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       203] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       219] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       234] Found new resource es_extended in C:/fivem/resources//es_extended
+[       234] Found new resource fivem in C:/fivem/resources//fivem
+[       250] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       265] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       265] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       281] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       297] Found new resource runcode in C:/fivem/resources//runcode
+[       297] Found new resource client in C:/fivem/resources//[essentials]/client
+[       312] Resource loading for client failed:
+[       312] Could not open resource metadata file C:/fivem/resources//[essentials]/client/__resource.lua.
+[       328] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       344] Found new resource html in C:/fivem/resources//[essentials]/html
+[       359] Resource loading for html failed:
+[       359] Could not open resource metadata file C:/fivem/resources//[essentials]/html/__resource.lua.
+[       375] Found new resource locales in C:/fivem/resources//[essentials]/locales
+[       390] Resource loading for locales failed:
+[       390] Could not open resource metadata file C:/fivem/resources//[essentials]/locales/__resource.lua.
+[       406] Found new resource localization in C:/fivem/resources//[essentials]/localization
+[       422] Resource loading for localization failed:
+[       422] Could not open resource metadata file C:/fivem/resources//[essentials]/localization/__resource.lua.
+[       422] Found new resource server in C:/fivem/resources//[essentials]/server
+[       437] Resource loading for server failed:
+[       437] Could not open resource metadata file C:/fivem/resources//[essentials]/server/__resource.lua.
+[       453] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       453] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       469] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       484] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       484] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       500] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       515] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       531] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       531] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       547] Found new resource chat in C:/fivem/resources//[system]/chat
+[       547] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       562] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       578] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       578] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       594] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       609] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       609] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       625] Found new resource keks in C:/fivem/resources//[test]/keks
+[       687] Started resource sessionmanager
+[       719] Started resource mapmanager
+[       734] Started resource chat
+[       750] Started resource spawnmanager
+[       750] Started resource fivem
+[       750] Started gametype Freeroam
+[       765] Started resource hardcap
+[       781] Started resource rconlog
+[       781] Started resource scoreboard
+[       812] Started resource playernames
+[       828] Started resource essentialmode
+[       859] Started resource es_extended
+[       875] Started resource esx_menu_default
+[       875] Started resource esx_menu_list
+[       890] Started resource esx_menu_dialog
+[       922] Started resource esplugin_mysql
+[       922] Authenticating server license key...
+[      2469] Server license key authentication succeeded. Welcome!
+[      2594] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2609] Sending heartbeat to live-internal.fivem.net:30110
+[      2609] 
+[      2609] Current version: 5.0.0
+[      2609] Updater version: 5.0.0
+[      2609] 
+[      2609] Everything is fine!
+[      2609] 
+[      2625] -------------------------------------------------------------
+[      2640] --- No errors detected, essentialmode is setup properly. ---
+[      2640] -------------------------------------------------------------
+[      2656] Started resource fivem-map-skater
+[      2656] Started map fivem-map-skater
+[      6859] Connecting: HnomKenG
+[      8140] Sending heartbeat to live-internal.fivem.net:30110
+[     36828] Error occurred while attempting to find user in CouchDB.
+[    125734] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       156] Found new resource async in C:/fivem/resources//async
+[       156] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       172] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       172] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       188] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       203] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       219] Found new resource es_extended in C:/fivem/resources//es_extended
+[       219] Found new resource fivem in C:/fivem/resources//fivem
+[       234] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       250] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       250] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       266] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       266] Found new resource runcode in C:/fivem/resources//runcode
+[       281] Found new resource client in C:/fivem/resources//[essentials]/client
+[       297] Resource loading for client failed:
+[       297] Could not open resource metadata file C:/fivem/resources//[essentials]/client/__resource.lua.
+[       313] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       313] Found new resource html in C:/fivem/resources//[essentials]/html
+[       328] Resource loading for html failed:
+[       328] Could not open resource metadata file C:/fivem/resources//[essentials]/html/__resource.lua.
+[       344] Found new resource locales in C:/fivem/resources//[essentials]/locales
+[       359] Resource loading for locales failed:
+[       359] Could not open resource metadata file C:/fivem/resources//[essentials]/locales/__resource.lua.
+[       375] Found new resource localization in C:/fivem/resources//[essentials]/localization
+[       391] Resource loading for localization failed:
+[       391] Could not open resource metadata file C:/fivem/resources//[essentials]/localization/__resource.lua.
+[       406] Found new resource server in C:/fivem/resources//[essentials]/server
+[       422] Resource loading for server failed:
+[       422] Could not open resource metadata file C:/fivem/resources//[essentials]/server/__resource.lua.
+[       422] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       438] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       453] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       453] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       469] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       500] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       500] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       516] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       531] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       531] Found new resource chat in C:/fivem/resources//[system]/chat
+[       547] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       563] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       563] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       578] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       594] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       594] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       609] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       625] Found new resource keks in C:/fivem/resources//[test]/keks
+[       672] Started resource sessionmanager
+[       703] Started resource mapmanager
+[       719] Started resource chat
+[       734] Started resource spawnmanager
+[       734] Started resource fivem
+[       750] Started gametype Freeroam
+[       750] Started resource hardcap
+[       766] Started resource rconlog
+[       781] Started resource scoreboard
+[       797] Started resource playernames
+[      1578] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1596539166
+[      1609] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1625] Started resource mysql-async
+[      1688] Started resource essentialmode
+[      1703] Started resource esplugin_mysql
+[      1766] Started resource es_extended
+[      1781] Started resource esx_menu_default
+[      1797] Started resource esx_menu_list
+[      1813] Started resource esx_menu_dialog
+[      1828] Authenticating server license key...
+[      4422] Server license key authentication succeeded. Welcome!
+[      4641] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      4656] Sending heartbeat to live-internal.fivem.net:30110
+[      4672] -------------------------------------------------------------
+[      4672] --- No errors detected, essentialmode is setup properly. ---
+[      4688] -------------------------------------------------------------
+[      4688] 
+[      4688] Current version: 5.0.0
+[      4688] Updater version: 5.0.0
+[      4688] 
+[      4703] Everything is fine!
+[      4703] 
+[      4734] Started resource fivem-map-hipster
+[      4734] Started map fivem-map-hipster
+[      4922] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1596539166
+[      5500] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Option 'passid' not supported.
+[      5500]   at MySql.Data.MySqlClient.MySqlConnectionStringOption.GetOptionForKey (System.String key) [0x0001e] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[      5500]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder.set_Item (System.String key, System.Object value) [0x00000] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[      5500]   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString (System.String value) [0x0004e] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      5500]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor (System.String connectionString) [0x00006] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[      5500]   at MySQLAsync.MySQLAsync.Configure (System.String connectionStringConfig, System.Boolean debug) [0x00000] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[      5500]   at MySQLAsync.MySQLAsync.<.ctor>b__2_0 () [0x00047] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[      5500]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[      5500]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      5500]    --- End of inner exception stack trace ---
+[      5500] 
+[      5516] 
+[      5516] Server stack trace: 
+[      5516]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      5516]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      5516]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      5516]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      5516]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      5516]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00062] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\FunctionReference.cs:62 
+[      5516]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:241 
+[      5516]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      5516]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[      5516] 
+[      5516] Exception rethrown at [0]: 
+[      5516]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      5516]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      5516]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:151 
+[      5609] Error running system event handling function for resource mysql-async: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:663: An error happened while calling export mysql_configure of resource mysql-async (citizen:/scripting/lua/MessagePack.lua:830: missing bytes), see above for details
+[      5609] stack traceback:
+[      5609] 	[C]: in function 'error'
+[      5609] 	citizen:/scripting/lua/scheduler.lua:663: in method 'mysql_configure'
+[      5609] 	lib/init.lua:3: in upvalue 'handler'
+[      5609] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[      5609] stack traceback:
+[      5609] 	[C]: in function 'error'
+[      5609] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[      5609] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[      5625] hitch warning: frame time of 1148 milliseconds
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       141] Found new resource async in C:/fivem/resources//async
+[       156] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       156] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       172] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       188] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       188] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       203] Found new resource es_admin2 in C:/fivem/resources//es_admin2
+[       219] Found new resource es_extended in C:/fivem/resources//es_extended
+[       219] Found new resource fivem in C:/fivem/resources//fivem
+[       234] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       250] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       266] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       266] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       281] Found new resource runcode in C:/fivem/resources//runcode
+[       281] Found new resource client in C:/fivem/resources//[essentials]/client
+[       297] Resource loading for client failed:
+[       297] Could not open resource metadata file C:/fivem/resources//[essentials]/client/__resource.lua.
+[       313] Found new resource html in C:/fivem/resources//[essentials]/html
+[       328] Resource loading for html failed:
+[       328] Could not open resource metadata file C:/fivem/resources//[essentials]/html/__resource.lua.
+[       328] Found new resource locales in C:/fivem/resources//[essentials]/locales
+[       344] Resource loading for locales failed:
+[       344] Could not open resource metadata file C:/fivem/resources//[essentials]/locales/__resource.lua.
+[       359] Found new resource localization in C:/fivem/resources//[essentials]/localization
+[       375] Resource loading for localization failed:
+[       375] Could not open resource metadata file C:/fivem/resources//[essentials]/localization/__resource.lua.
+[       391] Found new resource server in C:/fivem/resources//[essentials]/server
+[       406] Resource loading for server failed:
+[       406] Could not open resource metadata file C:/fivem/resources//[essentials]/server/__resource.lua.
+[       406] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       422] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       438] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       438] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       453] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       469] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       469] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       484] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       500] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       500] Found new resource chat in C:/fivem/resources//[system]/chat
+[       516] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       516] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       531] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       547] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       547] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       563] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       578] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       578] Found new resource keks in C:/fivem/resources//[test]/keks
+[       641] Started resource sessionmanager
+[       656] Started resource mapmanager
+[       672] Started resource chat
+[       688] Started resource spawnmanager
+[       688] Started resource fivem
+[       688] Started gametype Freeroam
+[       703] Started resource hardcap
+[       719] Started resource rconlog
+[       719] Started resource scoreboard
+[       734] Started resource playernames
+[      1391] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1319918814
+[      1406] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1422] Started resource mysql-async
+[      1484] Started resource essentialmode
+[      1500] Started resource esplugin_mysql
+[      1547] Started resource es_extended
+[      1594] Started resource es_admin2
+[      1594] Authenticating server license key...
+[      3484] Server license key authentication succeeded. Welcome!
+[      3641] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      3641] Sending heartbeat to live-internal.fivem.net:30110
+[      3656] -------------------------------------------------------------
+[      3656] --- No errors detected, essentialmode is setup properly. ---
+[      3672] -------------------------------------------------------------
+[      3672] 
+[      3672] Current version: 5.0.0
+[      3688] Updater version: 5.0.0
+[      3688] 
+[      3688] Everything is fine!
+[      3688] 
+[      3719] Started resource fivem-map-hipster
+[      3734] Started map fivem-map-hipster
+[      3922] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1319918814
+[      4484] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Option 'passid' not supported.
+[      4484]   at MySql.Data.MySqlClient.MySqlConnectionStringOption.GetOptionForKey (System.String key) [0x0001e] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[      4484]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder.set_Item (System.String key, System.Object value) [0x00000] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[      4484]   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString (System.String value) [0x0004e] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      4484]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor (System.String connectionString) [0x00006] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[      4484]   at MySQLAsync.MySQLAsync.Configure (System.String connectionStringConfig, System.Boolean debug) [0x00000] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[      4484]   at MySQLAsync.MySQLAsync.<.ctor>b__2_0 () [0x00047] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[      4484]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[      4484]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4484]    --- End of inner exception stack trace ---
+[      4484] 
+[      4484] 
+[      4484] Server stack trace: 
+[      4484]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4484]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4484]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4484]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4484]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4484]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00062] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\FunctionReference.cs:62 
+[      4484]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:241 
+[      4484]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      4484]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[      4484] 
+[      4484] Exception rethrown at [0]: 
+[      4484]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      4484]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      4484]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:151 
+[      4578] Error running system event handling function for resource mysql-async: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:663: An error happened while calling export mysql_configure of resource mysql-async (citizen:/scripting/lua/MessagePack.lua:830: missing bytes), see above for details
+[      4578] stack traceback:
+[      4578] 	[C]: in function 'error'
+[      4578] 	citizen:/scripting/lua/scheduler.lua:663: in method 'mysql_configure'
+[      4578] 	lib/init.lua:3: in upvalue 'handler'
+[      4578] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[      4578] stack traceback:
+[      4578] 	[C]: in function 'error'
+[      4578] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[      4578] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[      4594] hitch warning: frame time of 1053 milliseconds
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       172] Found new resource async in C:/fivem/resources//async
+[       172] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       188] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       203] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       203] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       219] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       219] Found new resource es_admin2 in C:/fivem/resources//es_admin2
+[       235] Found new resource es_extended in C:/fivem/resources//es_extended
+[       235] Found new resource fivem in C:/fivem/resources//fivem
+[       250] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       266] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       266] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       281] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       281] Found new resource runcode in C:/fivem/resources//runcode
+[       297] Found new resource client in C:/fivem/resources//[essentials]/client
+[       313] Resource loading for client failed:
+[       313] Could not open resource metadata file C:/fivem/resources//[essentials]/client/__resource.lua.
+[       328] Found new resource html in C:/fivem/resources//[essentials]/html
+[       344] Resource loading for html failed:
+[       344] Could not open resource metadata file C:/fivem/resources//[essentials]/html/__resource.lua.
+[       344] Found new resource locales in C:/fivem/resources//[essentials]/locales
+[       360] Resource loading for locales failed:
+[       360] Could not open resource metadata file C:/fivem/resources//[essentials]/locales/__resource.lua.
+[       375] Found new resource localization in C:/fivem/resources//[essentials]/localization
+[       391] Resource loading for localization failed:
+[       391] Could not open resource metadata file C:/fivem/resources//[essentials]/localization/__resource.lua.
+[       406] Found new resource server in C:/fivem/resources//[essentials]/server
+[       422] Resource loading for server failed:
+[       422] Could not open resource metadata file C:/fivem/resources//[essentials]/server/__resource.lua.
+[       422] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       438] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       453] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       453] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       469] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       485] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       485] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       500] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       500] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       516] Found new resource chat in C:/fivem/resources//[system]/chat
+[       516] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       531] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       547] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       547] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       563] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       578] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       578] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       594] Found new resource keks in C:/fivem/resources//[test]/keks
+[       641] Started resource sessionmanager
+[       672] Started resource mapmanager
+[       688] Started resource chat
+[       688] Started resource spawnmanager
+[       703] Started resource fivem
+[       703] Started gametype Freeroam
+[       719] Started resource hardcap
+[       719] Started resource rconlog
+[       735] Started resource scoreboard
+[       750] Started resource playernames
+[      1422] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1764273439
+[      1453] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1453] Started resource mysql-async
+[      1531] Started resource essentialmode
+[      1547] Started resource esplugin_mysql
+[      1594] Started resource es_extended
+[      1641] Started resource es_admin2
+[      1656] Authenticating server license key...
+[      3078] Server license key authentication succeeded. Welcome!
+[      3141] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      3156] Sending heartbeat to live-internal.fivem.net:30110
+[      3156] 
+[      3156] Current version: 5.0.0
+[      3156] Updater version: 5.0.0
+[      3156] 
+[      3172] Everything is fine!
+[      3172] 
+[      3203] Started resource fivem-map-hipster
+[      3203] Started map fivem-map-hipster
+[      3375] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1764273439
+[      3906] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Option 'passid' not supported.
+[      3906]   at MySql.Data.MySqlClient.MySqlConnectionStringOption.GetOptionForKey (System.String key) [0x0001e] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[      3906]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder.set_Item (System.String key, System.Object value) [0x00000] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[      3906]   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString (System.String value) [0x0004e] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      3906]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor (System.String connectionString) [0x00006] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[      3906]   at MySQLAsync.MySQLAsync.Configure (System.String connectionStringConfig, System.Boolean debug) [0x00000] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[      3906]   at MySQLAsync.MySQLAsync.<.ctor>b__2_0 () [0x00047] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[      3906]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[      3906]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      3906]    --- End of inner exception stack trace ---
+[      3906] 
+[      3906] 
+[      3906] Server stack trace: 
+[      3906]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      3906]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      3906]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      3906]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      3906]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      3906]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00062] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\FunctionReference.cs:62 
+[      3906]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:241 
+[      3906]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      3906]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[      3906] 
+[      3906] Exception rethrown at [0]: 
+[      3906]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      3906]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      3906]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:151 
+[      4016] Error running system event handling function for resource mysql-async: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:663: An error happened while calling export mysql_configure of resource mysql-async (citizen:/scripting/lua/MessagePack.lua:830: missing bytes), see above for details
+[      4016] stack traceback:
+[      4016] 	[C]: in function 'error'
+[      4016] 	citizen:/scripting/lua/scheduler.lua:663: in method 'mysql_configure'
+[      4016] 	lib/init.lua:3: in upvalue 'handler'
+[      4016] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[      4016] stack traceback:
+[      4016] 	[C]: in function 'error'
+[      4016] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[      4016] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[      4031] hitch warning: frame time of 892 milliseconds
+[         0] Initializing Mono
+[        32] Initializing Mono completed
+[        32] Hello!
+[       141] Found new resource async in C:/fivem/resources//async
+[       141] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       157] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       172] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       172] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       188] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       188] Found new resource es_admin2 in C:/fivem/resources//es_admin2
+[       203] Found new resource es_extended in C:/fivem/resources//es_extended
+[       203] Found new resource fivem in C:/fivem/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       235] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       235] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       266] Found new resource runcode in C:/fivem/resources//runcode
+[       266] Found new resource client in C:/fivem/resources//[essentials]/client
+[       282] Resource loading for client failed:
+[       282] Could not open resource metadata file C:/fivem/resources//[essentials]/client/__resource.lua.
+[       297] Found new resource html in C:/fivem/resources//[essentials]/html
+[       313] Resource loading for html failed:
+[       313] Could not open resource metadata file C:/fivem/resources//[essentials]/html/__resource.lua.
+[       328] Found new resource locales in C:/fivem/resources//[essentials]/locales
+[       344] Resource loading for locales failed:
+[       344] Could not open resource metadata file C:/fivem/resources//[essentials]/locales/__resource.lua.
+[       344] Found new resource localization in C:/fivem/resources//[essentials]/localization
+[       360] Resource loading for localization failed:
+[       360] Could not open resource metadata file C:/fivem/resources//[essentials]/localization/__resource.lua.
+[       375] Found new resource server in C:/fivem/resources//[essentials]/server
+[       391] Resource loading for server failed:
+[       391] Could not open resource metadata file C:/fivem/resources//[essentials]/server/__resource.lua.
+[       391] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       407] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       422] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       422] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       438] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       453] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       453] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       469] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       485] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       485] Found new resource chat in C:/fivem/resources//[system]/chat
+[       500] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       516] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       516] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       532] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       547] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       547] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       563] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       578] Found new resource keks in C:/fivem/resources//[test]/keks
+[       625] Started resource sessionmanager
+[       641] Started resource mapmanager
+[       657] Started resource chat
+[       672] Started resource spawnmanager
+[       672] Started resource fivem
+[       688] Started gametype Freeroam
+[       688] Started resource hardcap
+[       703] Started resource rconlog
+[       719] Started resource scoreboard
+[       735] Started resource playernames
+[       750] Started resource essentialmode
+[       766] Started resource esplugin_mysql
+[       782] Started resource es_extended
+[       797] Started resource es_admin2
+[       813] Authenticating server license key...
+[      2282] Server license key authentication succeeded. Welcome!
+[      2344] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2360] Sending heartbeat to live-internal.fivem.net:30110
+[      2360] 
+[      2360] Current version: 5.0.0
+[      2375] Updater version: 5.0.0
+[      2375] 
+[      2375] Everything is fine!
+[      2375] 
+[      2375] Started resource fivem-map-skater
+[      2391] Started map fivem-map-skater
+[         0] Initializing Mono
+[        32] Initializing Mono completed
+[        32] Hello!
+[       141] Found new resource async in C:/fivem/resources//async
+[       157] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       172] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       188] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       188] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       204] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       219] Found new resource es_admin2 in C:/fivem/resources//es_admin2
+[       235] Found new resource es_extended in C:/fivem/resources//es_extended
+[       235] Found new resource fivem in C:/fivem/resources//fivem
+[       250] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       266] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       266] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       282] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       282] Found new resource runcode in C:/fivem/resources//runcode
+[       297] Found new resource client in C:/fivem/resources//[essentials]/client
+[       313] Resource loading for client failed:
+[       313] Could not open resource metadata file C:/fivem/resources//[essentials]/client/__resource.lua.
+[       329] Found new resource html in C:/fivem/resources//[essentials]/html
+[       344] Resource loading for html failed:
+[       344] Could not open resource metadata file C:/fivem/resources//[essentials]/html/__resource.lua.
+[       344] Found new resource locales in C:/fivem/resources//[essentials]/locales
+[       360] Resource loading for locales failed:
+[       360] Could not open resource metadata file C:/fivem/resources//[essentials]/locales/__resource.lua.
+[       375] Found new resource localization in C:/fivem/resources//[essentials]/localization
+[       391] Resource loading for localization failed:
+[       391] Could not open resource metadata file C:/fivem/resources//[essentials]/localization/__resource.lua.
+[       407] Found new resource server in C:/fivem/resources//[essentials]/server
+[       422] Resource loading for server failed:
+[       422] Could not open resource metadata file C:/fivem/resources//[essentials]/server/__resource.lua.
+[       422] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       438] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       438] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       454] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       469] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       469] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       485] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       500] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       500] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       516] Found new resource chat in C:/fivem/resources//[system]/chat
+[       532] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       532] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       547] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       563] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       563] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       579] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       594] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       610] Found new resource keks in C:/fivem/resources//[test]/keks
+[       657] Started resource sessionmanager
+[       688] Started resource mapmanager
+[       704] Started resource chat
+[       719] Started resource spawnmanager
+[       719] Started resource fivem
+[       719] Started gametype Freeroam
+[       735] Started resource hardcap
+[       750] Started resource rconlog
+[       750] Started resource scoreboard
+[       766] Started resource playernames
+[       782] ^3Couldn't find resource essentials.^7
+[       797] Started resource essentialmode
+[       813] Started resource esplugin_mysql
+[       829] Started resource es_extended
+[       860] Started resource es_admin2
+[       860] Authenticating server license key...
+[      2688] Server license key authentication succeeded. Welcome!
+[      2813] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2813] Sending heartbeat to live-internal.fivem.net:30110
+[      2829] 
+[      2829] Current version: 5.0.0
+[      2829] Updater version: 5.0.0
+[      2829] 
+[      2829] Everything is fine!
+[      2829] 
+[      2844] Started resource fivem-map-skater
+[      2844] Started map fivem-map-skater
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       125] Found new resource async in C:/fivem/resources//async
+[       141] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       156] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       156] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       172] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       188] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       188] Found new resource fivem in C:/fivem/resources//fivem
+[       203] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       219] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       219] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       234] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       234] Found new resource runcode in C:/fivem/resources//runcode
+[       250] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       266] Found new resource es_extended in C:/fivem/resources//[essentials]/es_extended
+[       266] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       281] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       297] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       313] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       328] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       328] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       344] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       359] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       359] Found new resource chat in C:/fivem/resources//[system]/chat
+[       375] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       375] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       391] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       406] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       406] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       422] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       438] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       438] Found new resource keks in C:/fivem/resources//[test]/keks
+[       484] Started resource sessionmanager
+[       516] Started resource mapmanager
+[       531] Started resource chat
+[       531] Started resource spawnmanager
+[       547] Started resource fivem
+[       547] Started gametype Freeroam
+[       563] Started resource hardcap
+[       563] Started resource rconlog
+[       578] Started resource scoreboard
+[       578] Started resource playernames
+[       594] Started resource essentialmode
+[       609] Started resource esplugin_mysql
+[       641] Started resource es_extended
+[       656] Started resource es_admin2
+[       672] Started resource esx_menu_default
+[       672] Started resource esx_menu_list
+[       688] Started resource esx_menu_dialog
+[       688] Authenticating server license key...
+[      2578] Server license key authentication succeeded. Welcome!
+[      2797] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2797] Sending heartbeat to live-internal.fivem.net:30110
+[      2813] 
+[      2813] Current version: 5.0.0
+[      2813] Updater version: 5.0.0
+[      2813] 
+[      2813] Everything is fine!
+[      2813] 
+[      2828] Started resource fivem-map-skater
+[      2828] Started map fivem-map-skater
+[      2844] hitch warning: frame time of 204 milliseconds
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       141] Found new resource async in C:/fivem/resources//async
+[       156] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       156] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       172] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       187] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       187] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       203] Found new resource fivem in C:/fivem/resources//fivem
+[       203] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       219] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       234] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       234] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       250] Found new resource runcode in C:/fivem/resources//runcode
+[       250] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       266] Found new resource es_extended in C:/fivem/resources//[essentials]/es_extended
+[       281] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       281] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       312] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       312] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       328] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       344] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       344] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       359] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       375] Found new resource chat in C:/fivem/resources//[system]/chat
+[       391] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       391] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       406] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       406] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       422] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       437] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       437] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       453] Found new resource keks in C:/fivem/resources//[test]/keks
+[       500] Started resource sessionmanager
+[       531] Started resource mapmanager
+[       547] Started resource chat
+[       547] Started resource spawnmanager
+[       547] Started resource fivem
+[       562] Started gametype Freeroam
+[       562] Started resource hardcap
+[       578] Started resource rconlog
+[       578] Started resource scoreboard
+[       594] Started resource playernames
+[       609] Started resource essentialmode
+[       625] Started resource esplugin_mysql
+[       641] Started resource es_extended
+[       672] Started resource es_admin2
+[       672] Started resource esx_menu_default
+[       687] Started resource esx_menu_list
+[       703] Started resource esx_menu_dialog
+[       703] Authenticating server license key...
+[      2422] Server license key authentication succeeded. Welcome!
+[      2484] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2484] Sending heartbeat to live-internal.fivem.net:30110
+[      2500] 
+[      2500] Current version: 5.0.0
+[      2500] Updater version: 5.0.0
+[      2500] 
+[      2500] Everything is fine!
+[      2500] 
+[      2516] Started resource fivem-map-hipster
+[      2531] Started map fivem-map-hipster
+[     10406] Connecting: HnomKenG
+[     11031] Sending heartbeat to live-internal.fivem.net:30110
+[     38719] Error running system event handling function for resource esplugin_mysql: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:655: No such export mysql_fetch_all in resource mysql-async
+[     38719] stack traceback:
+[     38719] 	[C]: in function 'error'
+[     38719] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[     38719] 	@mysql-async/lib/MySQL.lua:111: in field 'fetchAll'
+[     38719] 	server.lua:15: in upvalue 'handler'
+[     38719] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[     38719] stack traceback:
+[     38719] 	[C]: in function 'error'
+[     38719] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[     38719] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       141] Found new resource async in C:/fivem/resources//async
+[       156] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       156] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       172] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       188] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       203] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       203] Found new resource fivem in C:/fivem/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       234] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       250] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       266] Found new resource runcode in C:/fivem/resources//runcode
+[       281] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       281] Found new resource es_extended in C:/fivem/resources//[essentials]/es_extended
+[       297] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       297] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       313] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       328] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       328] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       344] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       359] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       375] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       391] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       391] Found new resource chat in C:/fivem/resources//[system]/chat
+[       406] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       422] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       438] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       453] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       469] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       484] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       484] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       500] Found new resource keks in C:/fivem/resources//[test]/keks
+[       547] Started resource sessionmanager
+[       578] Started resource mapmanager
+[       594] Started resource chat
+[       594] Started resource spawnmanager
+[       609] Started resource scoreboard
+[       609] Started resource fivem
+[       625] Started gametype Freeroam
+[       625] Started resource hardcap
+[       641] Started resource rconlog
+[      1281] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1168803215
+[      1313] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1328] Started resource mysql-async
+[      1375] Started resource essentialmode
+[      1391] Started resource esplugin_mysql
+[      1438] Started resource es_admin2
+[      1484] Started resource es_extended
+[      1500] Authenticating server license key...
+[      3016] Server license key authentication succeeded. Welcome!
+[      3141] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      3141] Sending heartbeat to live-internal.fivem.net:30110
+[      3156] 
+[      3156] Current version: 5.0.0
+[      3156] Updater version: 5.0.0
+[      3156] 
+[      3156] Everything is fine!
+[      3156] 
+[      3172] -------------------------------------------------------------
+[      3172] --- No errors detected, essentialmode is setup properly. ---
+[      3188] -------------------------------------------------------------
+[      3219] Started resource fivem-map-hipster
+[      3234] Started map fivem-map-hipster
+[      3406] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1168803215
+[      4031] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentException: Format of the initialization string does not conform to specification starting at index 0.
+[      4031]   at System.Data.Common.DbConnectionOptions.GetKeyValuePair (System.String connectionString, System.Int32 currentPosition, System.Text.StringBuilder buffer, System.Boolean useOdbcRules, System.String& keyname, System.String& keyvalue) [0x000d4] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      4031]   at System.Data.Common.DbConnectionOptions.ParseInternal (System.Collections.Hashtable parsetable, System.String connectionString, System.Boolean buildChain, System.Collections.Hashtable synonyms, System.Boolean firstKey) [0x0001c] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      4031]   at System.Data.Common.DbConnectionOptions..ctor (System.String connectionString, System.Collections.Hashtable synonyms, System.Boolean useOdbcRules) [0x00037] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      4031]   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString (System.String value) [0x00015] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[      4031]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor (System.String connectionString) [0x00006] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[      4031]   at MySQLAsync.MySQLAsync.Configure (System.String connectionStringConfig, System.Boolean debug) [0x00000] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[      4031]   at MySQLAsync.MySQLAsync.<.ctor>b__2_0 () [0x00047] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[      4031]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[      4031]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4031]    --- End of inner exception stack trace ---
+[      4031] 
+[      4031] 
+[      4031] Server stack trace: 
+[      4031]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4031]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4031]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4031]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4031]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      4031]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00062] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\FunctionReference.cs:62 
+[      4031]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:241 
+[      4031]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      4031]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[      4031] 
+[      4031] Exception rethrown at [0]: 
+[      4031]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      4031]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[      4031]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:151 
+[      4141] Error running system event handling function for resource mysql-async: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:663: An error happened while calling export mysql_configure of resource mysql-async (citizen:/scripting/lua/MessagePack.lua:830: missing bytes), see above for details
+[      4141] stack traceback:
+[      4141] 	[C]: in function 'error'
+[      4141] 	citizen:/scripting/lua/scheduler.lua:663: in method 'mysql_configure'
+[      4141] 	lib/init.lua:3: in upvalue 'handler'
+[      4141] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[      4141] stack traceback:
+[      4141] 	[C]: in function 'error'
+[      4141] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[      4141] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[      4156] hitch warning: frame time of 1088 milliseconds
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[       125] Found new resource async in C:/fivem/resources//async
+[       140] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       140] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       156] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       156] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       172] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       187] Found new resource fivem in C:/fivem/resources//fivem
+[       187] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       203] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       218] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       218] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       234] Found new resource runcode in C:/fivem/resources//runcode
+[       234] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       250] Found new resource es_extended in C:/fivem/resources//[essentials]/es_extended
+[       265] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       265] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       281] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       297] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       297] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       312] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       328] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       328] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       343] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       359] Found new resource chat in C:/fivem/resources//[system]/chat
+[       359] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       375] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       390] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       390] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       406] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       406] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       422] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       437] Found new resource keks in C:/fivem/resources//[test]/keks
+[       484] Started resource sessionmanager
+[       500] Started resource mapmanager
+[       515] Started resource chat
+[       515] Started resource spawnmanager
+[       531] Started resource scoreboard
+[       531] Started resource fivem
+[       531] Started gametype Freeroam
+[       547] Started resource hardcap
+[       562] Started resource rconlog
+[       578] Started resource essentialmode
+[       593] Started resource es_admin2
+[       609] Started resource es_extended
+[       625] Authenticating server license key...
+[      2140] Server license key authentication succeeded. Welcome!
+[      2203] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2203] Sending heartbeat to live-internal.fivem.net:30110
+[      2203] 
+[      2218] Current version: 5.0.0
+[      2218] Updater version: 5.0.0
+[      2218] 
+[      2218] Everything is fine!
+[      2218] 
+[      2234] -------------------------------------------------------------
+[      2234] --- No errors detected, essentialmode is setup properly. ---
+[      2250] -------------------------------------------------------------
+[      2250] Started resource fivem-map-hipster
+[      2265] Started map fivem-map-hipster
+[     17422] Connecting: HnomKenG
+[     17656] Sending heartbeat to live-internal.fivem.net:30110
+[     28422] Error occurred while attempting to find user in CouchDB.
+[    122906] Connecting: joke4vi
+[    124515] Sending heartbeat to live-internal.fivem.net:30110
+[    155093] Error occurred while attempting to find user in CouchDB.
+[    304562] Sending heartbeat to live-internal.fivem.net:30110
+[    484625] Sending heartbeat to live-internal.fivem.net:30110
+[    521547] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[       140] Found new resource async in C:/fivem/resources//async
+[       140] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       156] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       172] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       172] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       187] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       203] Found new resource fivem in C:/fivem/resources//fivem
+[       203] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       218] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       234] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       234] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       250] Found new resource runcode in C:/fivem/resources//runcode
+[       250] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       265] Found new resource es_extended in C:/fivem/resources//[essentials]/es_extended
+[       281] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       281] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       297] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       312] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       328] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       343] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       343] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       359] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       375] Found new resource chat in C:/fivem/resources//[system]/chat
+[       375] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       390] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       390] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       406] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       422] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       437] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       437] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       453] Found new resource keks in C:/fivem/resources//[test]/keks
+[       500] Started resource sessionmanager
+[       531] Started resource mapmanager
+[       547] Started resource chat
+[       547] Started resource spawnmanager
+[       562] Started resource scoreboard
+[       562] Started resource fivem
+[       562] Started gametype Freeroam
+[       578] Started resource hardcap
+[       593] Started resource rconlog
+[      1218] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1618480913
+[      1265] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1265] Started resource mysql-async
+[      1328] Started resource essentialmode
+[      1343] Started resource esplugin_mysql
+[      1390] Started resource es_admin2
+[      1437] Started resource es_extended
+[      1453] Started resource esx_menu_default
+[      1468] Started resource esx_menu_list
+[      1484] Started resource esx_menu_dialog
+[      1484] Authenticating server license key...
+[      3250] Server license key authentication succeeded. Welcome!
+[      3484] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      3500] Sending heartbeat to live-internal.fivem.net:30110
+[      3500] 
+[      3500] Current version: 5.0.0
+[      3500] Updater version: 5.0.0
+[      3500] 
+[      3500] Everything is fine!
+[      3515] 
+[      3515] -------------------------------------------------------------
+[      3531] --- No errors detected, essentialmode is setup properly. ---
+[      3531] -------------------------------------------------------------
+[      3578] Started resource fivem-map-hipster
+[      3578] Started map fivem-map-hipster
+[      3781] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1618480913
+[      3906] hitch warning: frame time of 594 milliseconds
+[      3984] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1618480913
+[      4312] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1618480913
+[     15109] Connecting: HnomKenG
+[     15375] Sending heartbeat to live-internal.fivem.net:30110
+[     26343] Error occurred while attempting to find user in CouchDB.
+[     41406] HnomKenG: ควยยยย
+[     56140] Connecting: [ Doctor ]  Hores B
+[     70031] Sending heartbeat to live-internal.fivem.net:30110
+[     70047] hitch warning: frame time of 11742 milliseconds
+[     70062] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       125] Found new resource async in C:/fivem/resources//async
+[       141] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       156] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       172] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       172] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       188] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       188] Found new resource fivem in C:/fivem/resources//fivem
+[       203] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       219] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       219] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       234] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       250] Found new resource runcode in C:/fivem/resources//runcode
+[       250] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       266] Found new resource es_extended in C:/fivem/resources//[essentials]/es_extended
+[       281] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       281] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       313] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       328] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       328] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       344] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       344] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       359] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       375] Found new resource chat in C:/fivem/resources//[system]/chat
+[       375] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       391] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       391] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       406] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       422] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       422] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       438] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       438] Found new resource keks in C:/fivem/resources//[test]/keks
+[       484] Started resource sessionmanager
+[       516] Started resource mapmanager
+[       531] Started resource chat
+[       531] Started resource spawnmanager
+[       547] Started resource scoreboard
+[       547] Started resource fivem
+[       547] Started gametype Freeroam
+[       563] Started resource hardcap
+[       563] Started resource rconlog
+[      1203] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1033246408
+[      1234] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1234] Started resource mysql-async
+[      1297] Started resource essentialmode
+[      1313] Started resource esplugin_mysql
+[      1359] Started resource es_admin2
+[      1406] Started resource es_extended
+[      1422] Started resource esx_menu_default
+[      1438] Started resource esx_menu_list
+[      1438] Started resource esx_menu_dialog
+[      1453] Authenticating server license key...
+[      3250] Server license key authentication succeeded. Welcome!
+[      3406] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      3422] Sending heartbeat to live-internal.fivem.net:30110
+[      3422] -------------------------------------------------------------
+[      3438] --- No errors detected, essentialmode is setup properly. ---
+[      3438] -------------------------------------------------------------
+[      3438] 
+[      3438] Current version: 5.0.0
+[      3453] Updater version: 5.0.0
+[      3453] 
+[      3453] Everything is fine!
+[      3453] 
+[      3484] Started resource fivem-map-skater
+[      3500] Started map fivem-map-skater
+[      3703] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1033246408
+[      3828] hitch warning: frame time of 512 milliseconds
+[      3906] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1033246408
+[      3984] hitch warning: frame time of 154 milliseconds
+[      4281] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1033246408
+[     27500] Connecting: HnomKenG
+[     27734] Sending heartbeat to live-internal.fivem.net:30110
+[     38078] Connecting: joke4vi
+[     38688] Error occurred while attempting to find user in CouchDB.
+[     39484] Sending heartbeat to live-internal.fivem.net:30110
+[     51203] Error occurred while attempting to find user in CouchDB.
+[    219531] Sending heartbeat to live-internal.fivem.net:30110
+[    399563] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       141] Found new resource async in C:/fivem/resources//async
+[       156] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       172] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       172] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       187] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       203] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       203] Found new resource fivem in C:/fivem/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       234] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       250] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       266] Found new resource runcode in C:/fivem/resources//runcode
+[       281] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       297] Found new resource es_extended in C:/fivem/resources//[essentials]/es_extended
+[       297] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       312] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       328] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       328] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       344] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       359] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       375] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       391] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       391] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       406] Found new resource chat in C:/fivem/resources//[system]/chat
+[       406] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       422] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       437] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       437] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       453] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       469] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       469] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       484] Found new resource keks in C:/fivem/resources//[test]/keks
+[       547] Started resource sessionmanager
+[       562] Started resource mapmanager
+[       578] Started resource chat
+[       594] Started resource spawnmanager
+[       594] Started resource scoreboard
+[       594] Started resource fivem
+[       609] Started gametype Freeroam
+[       609] Started resource hardcap
+[       625] Started resource rconlog
+[      1297] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2019593272
+[      1328] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1328] Started resource mysql-async
+[      1391] Started resource essentialmode
+[      1406] Started resource esplugin_mysql
+[      1453] Started resource es_admin2
+[      1500] Started resource es_extended
+[      1516] Started resource esx_menu_default
+[      1531] Started resource esx_menu_list
+[      1547] Started resource esx_menu_dialog
+[      1547] Authenticating server license key...
+[      3328] Server license key authentication succeeded. Welcome!
+[      3453] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      3453] Sending heartbeat to live-internal.fivem.net:30110
+[      3453] 
+[      3453] Current version: 5.0.0
+[      3469] Updater version: 5.0.0
+[      3469] 
+[      3469] Everything is fine!
+[      3469] 
+[      3469] -------------------------------------------------------------
+[      3484] --- No errors detected, essentialmode is setup properly. ---
+[      3484] -------------------------------------------------------------
+[      3531] Started resource fivem-map-hipster
+[      3531] Started map fivem-map-hipster
+[      3703] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2019593272
+[      3812] hitch warning: frame time of 430 milliseconds
+[      3891] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2019593272
+[      4234] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2019593272
+[    183484] Sending heartbeat to live-internal.fivem.net:30110
+[    363500] Sending heartbeat to live-internal.fivem.net:30110
+[    543547] Sending heartbeat to live-internal.fivem.net:30110
+[    601500] [SAVED] All players
+[    723594] Sending heartbeat to live-internal.fivem.net:30110
+[    903656] Sending heartbeat to live-internal.fivem.net:30110
+[   1083672] Sending heartbeat to live-internal.fivem.net:30110
+[   1201516] [SAVED] All players
+[   1263719] Sending heartbeat to live-internal.fivem.net:30110
+[   1443781] Sending heartbeat to live-internal.fivem.net:30110
+[   1623812] Sending heartbeat to live-internal.fivem.net:30110
+[   1801562] [SAVED] All players
+[   1803859] Sending heartbeat to live-internal.fivem.net:30110
+[   1983875] Sending heartbeat to live-internal.fivem.net:30110
+[   2163891] Sending heartbeat to live-internal.fivem.net:30110
+[   2343922] Sending heartbeat to live-internal.fivem.net:30110
+[   2401578] [SAVED] All players
+[   2523984] Sending heartbeat to live-internal.fivem.net:30110
+[   2704047] Sending heartbeat to live-internal.fivem.net:30110
+[   2884062] Sending heartbeat to live-internal.fivem.net:30110
+[   3001609] [SAVED] All players
+[   3064078] Sending heartbeat to live-internal.fivem.net:30110
+[   3244109] Sending heartbeat to live-internal.fivem.net:30110
+[   3424125] Sending heartbeat to live-internal.fivem.net:30110
+[   3601641] [SAVED] All players
+[   3604187] Sending heartbeat to live-internal.fivem.net:30110
+[   3784203] Sending heartbeat to live-internal.fivem.net:30110
+[   3964250] Sending heartbeat to live-internal.fivem.net:30110
+[   3984094] Connecting: HnomKenG
+[   3984375] Sending heartbeat to live-internal.fivem.net:30110
+[   4003844] Sending heartbeat to live-internal.fivem.net:30110
+[   4017437] Connecting: HnomKenG
+[   4018062] Sending heartbeat to live-internal.fivem.net:30110
+[   4067359] Error occurred while attempting to find user in CouchDB.
+[   4087016] Sending heartbeat to live-internal.fivem.net:30110
+[   4201687] [SAVED] All players
+[   4251141] Connecting: Nate Higgers
+[   4257625] Sending heartbeat to live-internal.fivem.net:30110
+[   4353812] Sending heartbeat to live-internal.fivem.net:30110
+[   4533844] Sending heartbeat to live-internal.fivem.net:30110
+[   4713859] Sending heartbeat to live-internal.fivem.net:30110
+[   4801672] [SAVED] All players
+[   4893859] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        47] Hello!
+[       156] Found new resource async in C:/fivem/resources//async
+[       172] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       172] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       188] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       203] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       219] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       234] Found new resource fivem in C:/fivem/resources//fivem
+[       250] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       250] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       266] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       281] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       281] Found new resource runcode in C:/fivem/resources//runcode
+[       297] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       313] Found new resource es_extended in C:/fivem/resources//[essentials]/es_extended
+[       328] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       328] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       344] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       359] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       359] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       375] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       406] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       422] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       422] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       438] Found new resource chat in C:/fivem/resources//[system]/chat
+[       453] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       453] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       469] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       484] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       500] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       500] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       516] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       531] Found new resource keks in C:/fivem/resources//[test]/keks
+[       578] Started resource sessionmanager
+[       594] Started resource mapmanager
+[       609] Started resource chat
+[       625] Started resource spawnmanager
+[       625] Started resource scoreboard
+[       641] Started resource fivem
+[       641] Started gametype Freeroam
+[       656] Started resource hardcap
+[       672] Started resource rconlog
+[      1344] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1805373498
+[      1391] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1391] Started resource mysql-async
+[      1453] Started resource essentialmode
+[      1469] Started resource esplugin_mysql
+[      1516] Started resource es_admin2
+[      1563] Started resource es_extended
+[      1578] Started resource esx_menu_default
+[      1594] Started resource esx_menu_list
+[      1609] Started resource esx_menu_dialog
+[      1609] Authenticating server license key...
+[      4938] Server license key authentication succeeded. Welcome!
+[      5156] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      5172] Sending heartbeat to live-internal.fivem.net:30110
+[      5172] -------------------------------------------------------------
+[      5188] --- No errors detected, essentialmode is setup properly. ---
+[      5203] -------------------------------------------------------------
+[      5203] 
+[      5203] Current version: 5.0.0
+[      5203] Updater version: 5.0.0
+[      5203] 
+[      5219] Everything is fine!
+[      5219] 
+[      5250] Started resource fivem-map-hipster
+[      5250] Started map fivem-map-hipster
+[      5422] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1805373498
+[      5531] hitch warning: frame time of 534 milliseconds
+[      5594] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1805373498
+[      5938] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1805373498
+[      6078] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM items {=}": Access denied for user 'root'@'localhost' (using password: NO)
+[         0] Initializing Mono
+[        47] Initializing Mono completed
+[        63] Hello!
+[       156] Found new resource async in C:/fivem/resources//async
+[       172] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       188] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       188] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       203] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       219] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       235] Found new resource fivem in C:/fivem/resources//fivem
+[       235] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       250] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       266] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       266] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       281] Found new resource runcode in C:/fivem/resources//runcode
+[       297] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       313] Found new resource es_extended in C:/fivem/resources//[essentials]/es_extended
+[       313] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       328] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       344] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       360] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       360] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       375] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       391] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       391] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       406] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       422] Found new resource chat in C:/fivem/resources//[system]/chat
+[       438] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       438] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       453] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       469] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       485] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       485] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       500] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       500] Found new resource keks in C:/fivem/resources//[test]/keks
+[       563] Started resource sessionmanager
+[       594] Started resource mapmanager
+[       610] Started resource chat
+[       610] Started resource spawnmanager
+[       625] Started resource scoreboard
+[       625] Started resource fivem
+[       625] Started gametype Freeroam
+[       641] Started resource hardcap
+[       641] Started resource rconlog
+[      1313] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1748154611
+[      1344] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1344] Started resource mysql-async
+[      1406] Started resource essentialmode
+[      1422] Started resource esplugin_mysql
+[      1469] Started resource es_admin2
+[      1516] Started resource es_extended
+[      1531] Started resource esx_menu_default
+[      1547] Started resource esx_menu_list
+[      1547] Started resource esx_menu_dialog
+[      1563] Authenticating server license key...
+[      5297] Server license key authentication succeeded. Welcome!
+[      5360] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      5360] Sending heartbeat to live-internal.fivem.net:30110
+[      5375] -------------------------------------------------------------
+[      5375] --- No errors detected, essentialmode is setup properly. ---
+[      5391] -------------------------------------------------------------
+[      5422] Started resource fivem-map-skater
+[      5438] Started map fivem-map-skater
+[      5610] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1748154611
+[      5735] hitch warning: frame time of 373 milliseconds
+[      5735] 
+[      5735] Current version: 5.0.0
+[      5735] Updater version: 5.0.0
+[      5735] 
+[      5750] Everything is fine!
+[      5750] 
+[      5828] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1748154611
+[      6203] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1748154611
+[    185422] Sending heartbeat to live-internal.fivem.net:30110
+[    365453] Sending heartbeat to live-internal.fivem.net:30110
+[    489391] Connecting: HnomKenG
+[    489641] Sending heartbeat to live-internal.fivem.net:30110
+[    508719] Sending heartbeat to live-internal.fivem.net:30110
+[    543360] Connecting: HnomKenG
+[    543938] Sending heartbeat to live-internal.fivem.net:30110
+[    573766] Error occurred while attempting to find user in CouchDB.
+[    601516] [SAVED] All players
+[    606469] Sending heartbeat to live-internal.fivem.net:30110
+[    786531] Sending heartbeat to live-internal.fivem.net:30110
+[    966578] Sending heartbeat to live-internal.fivem.net:30110
+[   1146610] Sending heartbeat to live-internal.fivem.net:30110
+[   1201563] [SAVED] All players
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[       125] Found new resource async in C:/fivem/resources//async
+[       140] Found new resource esplugin_mysql in C:/fivem/resources//esplugin_mysql
+[       140] Found new resource essentialmode in C:/fivem/resources//essentialmode
+[       156] Found new resource esx_menu_default in C:/fivem/resources//esx_menu_default
+[       171] Found new resource esx_menu_dialog in C:/fivem/resources//esx_menu_dialog
+[       171] Found new resource esx_menu_list in C:/fivem/resources//esx_menu_list
+[       187] Found new resource fivem in C:/fivem/resources//fivem
+[       187] Found new resource fivem-awesome1501 in C:/fivem/resources//fivem-awesome1501
+[       203] Found new resource fivem-map-hipster in C:/fivem/resources//fivem-map-hipster
+[       203] Found new resource fivem-map-skater in C:/fivem/resources//fivem-map-skater
+[       218] Found new resource mysql-async in C:/fivem/resources//mysql-async
+[       218] Found new resource runcode in C:/fivem/resources//runcode
+[       234] Found new resource es_admin2 in C:/fivem/resources//[essentials]/es_admin2
+[       250] Found new resource es_extended in C:/fivem/resources//[essentials]/es_extended
+[       250] Found new resource race in C:/fivem/resources//[gamemodes]/race
+[       265] Found new resource race-test in C:/fivem/resources//[gamemodes]/race-test
+[       281] Found new resource channelfeed in C:/fivem/resources//[gameplay]/channelfeed
+[       281] Found new resource irc in C:/fivem/resources//[gameplay]/irc
+[       296] Found new resource obituary in C:/fivem/resources//[gameplay]/obituary
+[       312] Found new resource obituary-deaths in C:/fivem/resources//[gameplay]/obituary-deaths
+[       312] Found new resource playernames in C:/fivem/resources//[gameplay]/playernames
+[       328] Found new resource mapmanager in C:/fivem/resources//[managers]/mapmanager
+[       328] Found new resource baseevents in C:/fivem/resources//[system]/baseevents
+[       343] Found new resource chat in C:/fivem/resources//[system]/chat
+[       359] Found new resource hardcap in C:/fivem/resources//[system]/hardcap
+[       359] Found new resource rconlog in C:/fivem/resources//[system]/rconlog
+[       375] Found new resource scoreboard in C:/fivem/resources//[system]/scoreboard
+[       375] Found new resource sessionmanager in C:/fivem/resources//[system]/sessionmanager
+[       390] Found new resource spawnmanager in C:/fivem/resources//[system]/spawnmanager
+[       406] Found new resource betaguns in C:/fivem/resources//[test]/betaguns
+[       406] Found new resource gameInit in C:/fivem/resources//[test]/gameInit
+[       421] Found new resource keks in C:/fivem/resources//[test]/keks
+[       468] Started resource sessionmanager
+[       500] Started resource mapmanager
+[       515] Started resource chat
+[       515] Started resource spawnmanager
+[       531] Started resource scoreboard
+[       531] Started resource fivem
+[       531] Started gametype Freeroam
+[       546] Started resource hardcap
+[       562] Started resource rconlog
+[      1187] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1867952820
+[      1218] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1218] Started resource mysql-async
+[      1281] Started resource essentialmode
+[      1296] Started resource esplugin_mysql
+[      1343] Started resource es_admin2
+[      1390] Started resource es_extended
+[      1406] Started resource esx_menu_default
+[      1406] Started resource esx_menu_list
+[      1421] Started resource esx_menu_dialog
+[      1437] Authenticating server license key...
+[      4265] Server license key authentication succeeded. Welcome!
+[      4421] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      4421] Sending heartbeat to live-internal.fivem.net:30110
+[      4437] -------------------------------------------------------------
+[      4437] --- No errors detected, essentialmode is setup properly. ---
+[      4453] -------------------------------------------------------------
+[      4453] 
+[      4453] Current version: 5.0.0
+[      4453] Updater version: 5.0.0
+[      4453] 
+[      4468] Everything is fine!
+[      4468] 
+[      4500] Started resource fivem-map-hipster
+[      4500] Started map fivem-map-hipster
+[      4671] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1867952820
+[      4781] hitch warning: frame time of 449 milliseconds
+[      4843] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1867952820
+[      5218] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1867952820
+[     75843] Connecting: HnomKenG
+[     76140] Sending heartbeat to live-internal.fivem.net:30110
+[     87265] Error occurred while attempting to find user in CouchDB.
