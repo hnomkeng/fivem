@@ -5,11 +5,11 @@
   - [ ] CarCleanUp
   - [ ] esx_addoninventory
   - [ ] BMWM3GTR
-  - [ ] fivem
+  - [x] fivem
   - [ ] esx_datastore
   - [ ] afkkick
   - [ ] akina
-  - [ ] mysql-async
+  - [x] mysql-async
   - [ ] joblisting
   - [ ] doomsday_vehicles
   - [ ] locksystem
@@ -33,11 +33,11 @@
   - [ ] RealisticVehicleFailure
   - [ ] deleteveh
   - [ ] DriftCounter
-  - [ ] essentialmode
+  - [x] essentialmode
   - [ ] esx_cinema
   - [ ] Porsche918
   - [ ] mecaheli
-  - [ ] es_extended
+  - [x] es_extended
   - [ ] logs
   - [ ] colorado
   - [ ] grapeseedalive
@@ -74,8 +74,8 @@
   - [ ] borderwall
   - [ ] rboat
   - [ ] vision
-  - [ ] spawnmanager
-  - [ ] SexySpeedometer
+  - [x] spawnmanager
+  - [x] SexySpeedometer
   - [ ] show
   - [ ] sirencontrols
   - [ ] BugattiEB110
@@ -98,7 +98,7 @@
   - [ ] bmwM235
   - [ ] BmwM4
   - [ ] BmwM5E60
-  - [ ] esx_jobs
+  - [x] esx_jobs
   - [ ] BmwM6F13
   - [ ] esx_barbershop
   - [ ] bmwX5
@@ -130,13 +130,13 @@
   - [ ] taxi
   - [ ] veneno
   - [ ] c7r
-  - [ ] esplugin_mysql
-  - [ ] es_admin2
+  - [x] esplugin_mysql
+  - [x] es_admin2
   - [ ] es_carwash
   - [ ] esx_accessories
-  - [ ] esx_addonaccount
+  - [x] esx_addonaccount
   - [ ] esx_AdvancedFuel
-  - [ ] esx_menu_dialog
+  - [x] esx_menu_dialog
   - [ ] esx_atm
   - [ ] esx_banksecurity
   - [ ] esx_billing
@@ -155,8 +155,8 @@
   - [ ] baseevents
   - [ ] esx_mask
   - [ ] esx_mecanojob
-  - [ ] esx_menu_default
-  - [ ] esx_menu_list
+  - [x] esx_menu_default
+  - [x] esx_menu_list
   - [ ] esx_optionalneeds
   - [ ] esx_outlawalert
   - [ ] esx_phone
@@ -183,7 +183,7 @@
   - [ ] ims
   - [ ] Moto
   - [ ] g65
-  - [ ] mapmanager
+  - [x] mapmanager
   - [ ] bayside
   - [ ] bridgeman
   - [ ] sandyairfield
@@ -194,6 +194,6 @@
   - [ ] helimedic
   - [ ] McLarenpolice
   - [ ] policeunsurgent
-  - [ ] chat
-  - [ ] rconlog
-  - [ ] scoreboard
+  - [x] chat
+  - [x] rconlog
+  - [x] scoreboard
