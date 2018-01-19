@@ -3,10 +3,10 @@
 # Information ( RolePlay by FXServer )
 - Script Requirements
   - [ ] CarCleanUp
-  - [ ] esx_addoninventory
+  - [x] esx_addoninventory
   - [ ] BMWM3GTR
   - [x] fivem
-  - [ ] esx_datastore
+  - [x] esx_datastore
   - [ ] afkkick
   - [ ] akina
   - [x] mysql-async
@@ -43,7 +43,7 @@
   - [ ] grapeseedalive
   - [ ] fbiset
   - [ ] zentenario
-  - [ ] fivem-map-hipster
+  - [x] fivem-map-hipster
   - [ ] hospital
   - [ ] esx_basicneeds
   - [ ] gang
