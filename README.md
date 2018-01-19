@@ -139,7 +139,7 @@
   - [x] esx_menu_dialog
   - [ ] esx_atm
   - [ ] esx_banksecurity
-  - [ ] esx_billing
+  - [x] esx_billing
   - [ ] esx_blanchisseu
   - [ ] esx_clotheshop
   - [ ] esx_dmvschool
@@ -148,7 +148,7 @@
   - [ ] esx_garbagejob
   - [ ] esx_holdup
   - [ ] rmodmustang
-  - [ ] esx_identity
+  - [x] esx_identity
   - [ ] FerrariAperta
   - [ ] esx_jailer
   - [ ] esx_license
@@ -161,7 +161,7 @@
   - [ ] esx_outlawalert
   - [ ] esx_phone
   - [ ] esx_pizza
-  - [ ] esx_policejob
+  - [x] esx_policejob
   - [ ] esx_property
   - [ ] ESX_Repairvehicle
   - [ ] esx_service
@@ -169,7 +169,7 @@
   - [ ] esx_sit
   - [ ] esx_skin
   - [ ] esx_slotmachine
-  - [ ] esx_society
+  - [x] esx_society
   - [ ] esx_status
   - [ ] esx_tattoosShops
   - [ ] esx_thief
