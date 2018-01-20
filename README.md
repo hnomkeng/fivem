@@ -80,9 +80,9 @@
   - [ ] sirencontrols
   - [ ] BugattiEB110
   - [ ] skinchanger
-  - [ ] esx_holdupbank
+  - [x] esx_holdupbank
   - [ ] esx_plasticsurgery
-  - [ ] TrainSportation
+  - [x] TrainSportation
   - [ ] vVoice
   - [ ] patch
   - [ ] vinewoodalive
@@ -100,7 +100,7 @@
   - [ ] BmwM5E60
   - [x] esx_jobs
   - [ ] BmwM6F13
-  - [ ] esx_barbershop
+  - [x] esx_barbershop
   - [ ] bmwX5
   - [ ] BugattiVeyron
   - [ ] 370z
@@ -112,7 +112,7 @@
   - [ ] Ducati1199
   - [ ] f1
   - [ ] fast
-  - [ ] esx_weashops
+  - [x] esx_weashops
   - [ ] HarleyDavidson
   - [ ] hilukvigo
   - [ ] hondamsx
@@ -150,8 +150,8 @@
   - [ ] rmodmustang
   - [x] esx_identity
   - [ ] FerrariAperta
-  - [ ] esx_jailer
-  - [ ] esx_license
+  - [x] esx_jailer
+  - [x] esx_license
   - [x] baseevents
   - [ ] esx_mask
   - [x] esx_mecanojob
@@ -175,7 +175,7 @@
   - [x] esx_thief
   - [ ] chgaming
   - [x] esx_truckerjob
-  - [ ] esx_voice
+  - [x] esx_voice
   - [ ] ferrari488
   - [ ] FerrariCalifornia
   - [ ] fxxk
