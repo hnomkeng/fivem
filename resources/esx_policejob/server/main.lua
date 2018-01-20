@@ -125,28 +125,6 @@ AddEventHandler('esx_policejob:putStockItems', function(itemName, count)
 
 end)
 
--- jail addon
-RegisterServerEvent('jail:teleportToJail')
-AddEventHandler('jail:teleportToJail', function(t, amount)
-  TriggerClientEvent('jail:teleportPlayer', t, amount)
-end)
-
-
-
-RegisterServerEvent('jail:removeInventaire')
-AddEventHandler('jail:removeInventaire', function(amount)
-local xPlayer = ESX.GetPlayerFromId(source)
-  for i=1, #xPlayer.inventory, 1 do
-    if xPlayer.inventory[i].count > 0 then
-      ESX.CreatePickup('item_standard', xPlayer.inventory[i].name, xPlayer.inventory[i].count, xPlayer.inventory[i].label .. ' [' .. xPlayer.inventory[i].count .. ']', _source)
-      xPlayer.setInventoryItem(xPlayer.inventory[i].name, 0)
-    end
-  end
-  xPlayer.addInventoryItem('bread', amount/60)
-  xPlayer.addInventoryItem('water', amount/60)
-end)
--- jail addon end
-
 ESX.RegisterServerCallback('esx_policejob:getOtherPlayerData', function(source, cb, target)
 
   if Config.EnableESXIdentity then
@@ -480,3 +458,25 @@ ESX.RegisterServerCallback('esx_policejob:getPlayerInventory', function(source, 
   })
 
 end)
+
+-- jail addon
+RegisterServerEvent('jail:teleportToJail')
+AddEventHandler('jail:teleportToJail', function(t, amount)
+  TriggerClientEvent('jail:teleportPlayer', t, amount)
+end)
+
+
+
+RegisterServerEvent('jail:removeInventaire')
+AddEventHandler('jail:removeInventaire', function(amount)
+local xPlayer = ESX.GetPlayerFromId(source)
+  for i=1, #xPlayer.inventory, 1 do
+    if xPlayer.inventory[i].count > 0 then
+      ESX.CreatePickup('item_standard', xPlayer.inventory[i].name, xPlayer.inventory[i].count, xPlayer.inventory[i].label .. ' [' .. xPlayer.inventory[i].count .. ']', _source)
+      xPlayer.setInventoryItem(xPlayer.inventory[i].name, 0)
+    end
+  end
+  xPlayer.addInventoryItem('bread', amount/60)
+  xPlayer.addInventoryItem('water', amount/60)
+end)
+-- jail addon end
