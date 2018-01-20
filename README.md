@@ -13,10 +13,10 @@
   - [ ] joblisting
   - [ ] doomsday_vehicles
   - [ ] locksystem
-  - [ ] ban-async
+  - [x] ban-async
   - [ ] blips
   - [ ] policegs350
-  - [ ] esx_dockshop
+  - [x] esx_dockshop
   - [ ] bob74_ipl
   - [ ] carhud
   - [ ] hypr9boost
@@ -53,9 +53,9 @@
   - [ ] hypr9stun
   - [x] instance
   - [ ] interactsound
-  - [ ] esx_drugs
-  - [ ] LoadingScreen
-  - [ ] esx_vehicleshop
+  - [x] esx_drugs
+  - [x] LoadingScreen
+  - [x] esx_vehicleshop
   - [ ] rolesFX
   - [ ] GSXR1000
   - [ ] map
@@ -163,18 +163,18 @@
   - [ ] esx_pizza
   - [x] esx_policejob
   - [x] esx_property
-  - [ ] ESX_Repairvehicle
+  - [x] ESX_Repairvehicle
   - [x] esx_service
   - [x] esx_shops
   - [x] esx_sit
   - [x] esx_skin
-  - [ ] esx_slotmachine
+  - [x] esx_slotmachine
   - [x] esx_society
   - [x] esx_status
   - [ ] esx_tattoosShops
-  - [ ] esx_thief
+  - [x] esx_thief
   - [ ] chgaming
-  - [ ] esx_truckerjob
+  - [x] esx_truckerjob
   - [ ] esx_voice
   - [ ] ferrari488
   - [ ] FerrariCalifornia

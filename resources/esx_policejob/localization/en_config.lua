@@ -262,4 +262,125 @@ Config.PoliceStations = {
 
   },
 
+  LSPD3 = {
+    Blip = {
+      Pos   = {x = -441.80764770508, y = 6012.5131835938, z = 31.716369628906 },
+      Color = 29
+    },
+
+    AuthorizedWeapons = {
+      {name = 'WEAPON_NIGHTSTICK',       price = 200},
+      {name = 'WEAPON_COMBATPISTOL',     price = 300},
+      {name = 'WEAPON_ASSAULTSMG',       price = 1250},
+      {name = 'WEAPON_SPECIALCARBINE',   price = 1500},
+      {name = 'WEAPON_PUMPSHOTGUN',      price = 600},
+      {name = 'WEAPON_STUNGUN',          price = 500},
+      {name = 'WEAPON_FLASHLIGHT',       price = 80},
+      {name = 'WEAPON_FIREEXTINGUISHER', price = 120},
+      {name = 'WEAPON_FLAREGUN',         price = 60},
+    },
+
+    AuthorizedVehicles = {
+      {name = 'police' , label = 'Police Vehicle 1'},
+      {name = 'police2', label = 'Police Vehicle 2'},
+      {name = 'police3', label = 'Police Vehicle 3'},
+      {name = 'police4', label = 'Police Vehicle 4'},
+      {name = 'policeb', label = 'Motorcycle'},
+      {name = 'policet', label = 'Transport Van'},
+    },
+
+    Cloakrooms = {
+      {x = -450.2878112793, y = 6016.482421875, z = 31.716369628906 },
+    },
+
+    Armories = {
+      {x = -448.04425048828, y = 6007.7104492188, z = 31.716369628906 },
+    },
+
+    Vehicles = {
+      {
+        Spawner    = {x = -452.30313110352, y = 6005.6704101563, z = 31.840929031372 },
+        SpawnPoint = {x = -454.96899414063, y = 6001.8876953125, z = 31.340549468994 },
+        Heading    = 87.0
+      }
+    },
+
+    Helicopters = {
+      {
+        Spawner    = {x = -462.88317871094, y = 5993.7685546875, z = 31.245756149292 },
+        SpawnPoint = {x = -475.48043823242, y = 5988.326171875, z = 31.336708068848 },
+        Heading    = 270.0
+      }
+    },
+
+    VehicleDeleters = {
+      {x = -447.64434814453, y = 5994.5024414063, z = 31.340551376343 },
+    },
+
+    BossActions = {
+      {x = -441.80764770508, y = 6012.5131835938, z = 31.716369628906 },
+    }
+
+  },
+
+  SASP3 = {
+    Blip = {
+      Pos   = {x = 1851.0972900391, y = 3683.7622070313, z = 34.26708984375 },
+      Color = 40
+    },
+
+    AuthorizedWeapons = {
+      {name = 'WEAPON_NIGHTSTICK',       price = 200},
+      {name = 'WEAPON_COMBATPISTOL',     price = 300},
+      {name = 'WEAPON_ASSAULTSMG',       price = 1250},
+      {name = 'WEAPON_SPECIALCARBINE',   price = 1500},
+      {name = 'WEAPON_PUMPSHOTGUN',      price = 600},
+      {name = 'WEAPON_STUNGUN',          price = 500},
+      {name = 'WEAPON_FLASHLIGHT',       price = 80},
+      {name = 'WEAPON_FIREEXTINGUISHER', price = 120},
+      {name = 'WEAPON_FLAREGUN',         price = 60},
+    },
+
+    AuthorizedVehicles = {
+      {name = 'police' , label = 'Police Vehicle 1'},
+      {name = 'police2', label = 'Police Vehicle 2'},
+      {name = 'police3', label = 'Police Vehicle 3'},
+      {name = 'police4', label = 'Police Vehicle 4'},
+      {name = 'policeb', label = 'Motorcycle'},
+      {name = 'policet', label = 'Transport Van'},
+    },
+
+    Cloakrooms = {
+      {x = 1857.2354736328, y = 3689.8408203125, z = 34.26708984375 }, -- state pd
+    },
+
+    Armories = {
+      {x = 1848.3413085938, y = 3690.1345214844, z = 34.26708984375 }, -- state pd
+    },
+
+    Vehicles = {
+      {
+        Spawner    = {x = 1866.208984375, y = 3693.8125, z = 33.737236022949 }, --state pd
+        SpawnPoint = {x = 1872.9417724609, y = 3690.5759277344, z = 33.569362640381 },  -- state pd
+        Heading    = 90.0 --state pd
+      }
+    },
+
+    Helicopters = {
+      {
+        Spawner    = {x = 466.477, y = -982.819, z = 42.691},
+        SpawnPoint = {x = 450.04, y = -981.14, z = 42.691},
+        Heading    = 0.0
+      }
+    },
+
+    VehicleDeleters = {
+      {x = 1866.4152832031, y = 3699.6052246094, z = 33.535938262939 }, --state pd
+    },
+
+    BossActions = {
+      {x = 1851.0972900391, y = 3683.7622070313, z = 34.26708984375 }, --state pd
+    }
+
+  },
 }

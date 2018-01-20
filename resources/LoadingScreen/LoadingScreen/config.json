@@ -1,0 +1,42 @@
+[
+	{
+		"useBackgroundColour" : "true",
+		"backgroundColour" : "20,20,20",
+		"useBackgroundImage" : "false",
+		"backgroundImagePath" : "images/backgroundImg7.jpg",
+		"useTextColour" : "false",
+		"textColour" : "0,0,0",
+		"useBoldText" : "false",
+		"serverTitle" : "Loadingscreen Material Load 2.0",
+		"playAudioInBackground" : "true",
+		"audioPath" : "audio/gtavthemesong.ogg",
+		"audioVolume" : "0.5"
+	},
+	{
+		"rule1" : "Ne pas spam chat/micro.",
+		"rule2" : "Respecter le Staff et les autres joueurs.",
+		"rule3" : "Ne tuez pas les joueurs sans raison (freekill).",
+		"rule4" : "Ne pas abuser de votre travail.",
+		"rule5" : "Ne pas spawnkill !",
+		"rule6" : "Ne pas troller, parler pour rien dire.",
+		"rule7" : "Ne pas freepunch."
+	},
+	{
+		"servers1" : "Slots : 32",
+		"servers2" : "Youtube : https://www.youtube.com/channel/UC7cOssWHSyWgxnVZ3Q-2iIQ",
+		"servers3" : "Twitch : twitch.tv/rdzkiilleurzz",
+		"servers4" : "Discord : https://discord.gg/b6aB5wS",
+		"servers5" : "Github : https://github.com/RDZKiiLleUrZz",
+		"servers6" : "Site Web : www.lion-shell.cf",
+		"servers7" : "FiveFrance : https://fivefrance.fr/user/rdz"
+	},
+	{
+		"content1" : "ATM/Banque",
+		"content2" : "Apartments/maison",
+		"content3" : "+9 Metiers",
+		"content4" : "Metier Policier et ambulancier whitelist)",
+		"content5" : "+5 Drogues",
+		"content6" : "V&eacute;hicules modder",
+		"content7" : "Magasin V&#136;tement/market"
+	}
+]

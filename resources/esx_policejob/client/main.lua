@@ -77,8 +77,7 @@ function OpenCloakroomMenu()
   if Config.EnableNonFreemodePeds then
     table.insert(elements, {label = _U('sheriff_wear'), value = 'sheriff_wear_freemode'})
     table.insert(elements, {label = _U('lieutenant_wear'), value = 'lieutenant_wear_freemode'})
-    --table.insert(elements, {label = _U('commandant_wear'), value = 'commandant_wear_freemode'})
-	table.insert(elements, {label = _U('fbi_wear'), value = 'fbi_wear_freemode'})
+    table.insert(elements, {label = _U('commandant_wear'), value = 'commandant_wear_freemode'})
   end
 
   table.insert(elements, {label = _U('bullet_wear'), value = 'bullet_wear'})
@@ -462,37 +461,6 @@ function OpenCloakroomMenu()
 
         end)
       end
-	  
-	  if data.current.value == 'fbi_wear_freemode' then
-
-        ESX.TriggerServerCallback('esx_skin:getPlayerSkin', function(skin, jobSkin)
-
-        if skin.sex == 0 then
-          local model = GetHashKey("s_m_m_ciasec_01")
-
-          RequestModel(model)
-          while not HasModelLoaded(model) do
-            RequestModel(model)
-            Citizen.Wait(0)
-          end
-
-          SetPlayerModel(PlayerId(), model)
-          SetModelAsNoLongerNeeded(model)
-      else
-          local model = GetHashKey("s_m_m_ciasec_01")
-
-          RequestModel(model)
-          while not HasModelLoaded(model) do
-            RequestModel(model)
-            Citizen.Wait(0)
-          end
-
-          SetPlayerModel(PlayerId(), model)
-          SetModelAsNoLongerNeeded(model)
-          end
-
-        end)
-      end
 
       if data.current.value == 'commandant_wear_freemode' then
 
@@ -691,58 +659,47 @@ function OpenVehicleSpawnerMenu(station, partNum)
 
     local elements = {}
 
-    table.insert(elements, { label = 'Lexus police', value = 'polgs350' })
-    table.insert(elements, { label = 'Porsche police', value = 'porschepd' })
-	table.insert(elements, { label = 'Moto', value = 'policebvn'})
+    table.insert(elements, { label = 'Vélo', value = 'fixter' })
+    table.insert(elements, { label = 'Cruiser', value = 'police' })
+    table.insert(elements, { label = 'Sheriff Cruiser', value = 'sheriff' })
 
     if PlayerData.job.grade_name == 'officer' then
       table.insert(elements, { label = 'Interceptor', value = 'police3'})
-	  table.insert(elements, { label = 'Buffalo', value = 'police2'})
     end
 
     if PlayerData.job.grade_name == 'sergeant' then
-      table.insert(elements, { label = 'Lexus police', value = 'polgs350'})
-	  table.insert(elements, { label = 'Audi Police', value = 'audipd'})
-	  table.insert(elements, { label = 'Porsche police', value = 'porschepd' })
-      table.insert(elements, { label = '4x4 police', value = 'polmarsh'})
-      table.insert(elements, { label = 'Moto', value = 'policebvn'})
+      table.insert(elements, { label = 'Sheriff SUV', value = 'sheriff2'})
+      table.insert(elements, { label = 'Interceptor', value = 'police3'})
+      table.insert(elements, { label = 'Buffalo', value = 'police2'})
+      table.insert(elements, { label = 'Moto', value = 'policeb'})
       table.insert(elements, { label = 'Bus pénitentiaire', value = 'pbus'})
       table.insert(elements, { label = 'Bus de transport', value = 'policet'})
       table.insert(elements, { label = 'Antiémeute', value = 'riot'})
-	  table.insert(elements, { label = 'Lexus police', value = 'polgs350'})
     end
 
     if PlayerData.job.grade_name == 'lieutenant' then
-      table.insert(elements, { label = 'Lexus police', value = 'polgs350'})
-	  table.insert(elements, { label = 'Audi Police', value = 'audipd'})
-	  table.insert(elements, { label = 'Porsche police', value = 'porschepd' })
-	  table.insert(elements, { label = 'McLaren police', value = 'mclarenpd'})
-      table.insert(elements, { label = '4x4 police', value = 'polmarsh'})
-      table.insert(elements, { label = 'Moto', value = 'policebvn'})
+      table.insert(elements, { label = 'Sheriff SUV', value = 'sheriff2'})
+      table.insert(elements, { label = 'Interceptor', value = 'police3'})
+      table.insert(elements, { label = 'Buffalo', value = 'police2'})
+      table.insert(elements, { label = 'Moto', value = 'policeb'})
       table.insert(elements, { label = 'Bus pénitentiaire', value = 'pbus'})
       table.insert(elements, { label = 'Bus de transport', value = 'policet'})
       table.insert(elements, { label = 'Antiémeute', value = 'riot'})
       table.insert(elements, { label = 'FBI', value = 'fbi'})
       table.insert(elements, { label = 'FBI SUV', value = 'fbi2'})
-	  table.insert(elements, { label = 'ins police', value = 'policeinsurgent'})
     end
 
     if PlayerData.job.grade_name == 'boss' then
-      table.insert(elements, { label = 'Lexus police', value = 'polgs350'})
-	  table.insert(elements, { label = 'Audi Police', value = 'audipd'})
-	  table.insert(elements, { label = 'Porsche police', value = 'porschepd' })
-	  table.insert(elements, { label = 'McLaren police', value = 'mclarenpd'})
-	  table.insert(elements, { label = 'Bugatti police', value = 'polchiron'})
-      table.insert(elements, { label = '4x4 police', value = 'polmarsh'})
-      table.insert(elements, { label = 'Moto', value = 'policebvn'})
+      table.insert(elements, { label = 'Sheriff SUV', value = 'sheriff2'})
+      table.insert(elements, { label = 'Interceptor', value = 'police3'})
+      table.insert(elements, { label = 'Buffalo', value = 'police2'})
+      table.insert(elements, { label = 'Moto', value = 'policeb'})
       table.insert(elements, { label = 'Bus pénitentiaire', value = 'pbus'})
       table.insert(elements, { label = 'Bus de transport', value = 'policet'})
       table.insert(elements, { label = 'Antiémeute', value = 'riot'})
       table.insert(elements, { label = 'FBI', value = 'fbi'})
       table.insert(elements, { label = 'FBI SUV', value = 'fbi2'})
       table.insert(elements, { label = 'Voiture Banalisée ', value = 'police4'})
-	  table.insert(elements, { label = 'ins police', value = 'policeinsurgent'})
-	  table.insert(elements, { label = 'Valkyrie police', value = 'Valkyrie'})
     end
 
     ESX.UI.Menu.Open(
@@ -1249,11 +1206,9 @@ function OpenFineMenu(player)
       align    = 'top-left',
       elements = {
         {label = _U('traffic_offense'),   value = 0},
-        {label = _U('npc_offense'),     value = 1},
+        {label = _U('minor_offense'),     value = 1},
         {label = _U('average_offense'),   value = 2},
-        {label = _U('major_offense'),     value = 3},
-		{label = _U('doctor_offense'),     value = 4},
-		{label = _U('mecanic_offense'),     value = 5}
+        {label = _U('major_offense'),     value = 3}
       },
     },
     function(data, menu)
@@ -2139,8 +2094,7 @@ Citizen.CreateThread(function()
               GetEntityModel(vehicle) == GetHashKey('police3') or
               GetEntityModel(vehicle) == GetHashKey('police4') or
               GetEntityModel(vehicle) == GetHashKey('policeb') or
-              GetEntityModel(vehicle) == GetHashKey('policet') or
-			  GetEntityModel(vehicle) == GetHashKey('police5')
+              GetEntityModel(vehicle) == GetHashKey('policet')
             then
               TriggerServerEvent('esx_service:disableService', 'police')
             end

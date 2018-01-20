@@ -1,16 +1,6 @@
 # fxserver-esx_ambulancejob
 FXServer ESX Ambulance Job
 
-
-[UPDATE]
-anti alt+F4, player will always be killed when reconnected
-install this ambulance job and insert this sql into your database:
-
-```
-ALTER TABLE `users` ADD isalife int(2) default 1;
-```
-
-
 [REQUIREMENTS]
 
 * Auto mode
@@ -24,7 +14,7 @@ ALTER TABLE `users` ADD isalife int(2) default 1;
 1) CD in your resources/[esx] folder
 2) Clone the repository
 ```
-git clone https://github.com/TanguyOrtegat/esx_ambulancejob.git esx_ambulancejob
+git clone https://github.com/FXServer-ESX/fxserver-esx_ambulancejob esx_ambulancejob
 ```
 3) Import esx_ambulancejob.sql in your database
 
