@@ -17,6 +17,13 @@ Locales['en'] = {
   ['no_vehicles'] = 'no vehicles nearby',
   ['isdead'] = 'is dead',
   ['unconscious'] = 'is not unconscious',
+  ['object_spawner'] = 'place objects',
+  ['traffic_interaction'] = 'Interaction Roads',
+  ['cone'] = 'cone',
+  ['barrier'] = 'barrier',
+  ['spikestrips'] = 'spikestrips',
+  ['box'] = 'box',
+  ['cash'] = 'cash',
   -- Boss Menu
   ['deposit_society'] = 'eMS Deposit',
   ['withdraw_society'] = 'eMS Withdraw',
@@ -26,11 +33,22 @@ Locales['en'] = {
   ['open_menu'] = 'press ~INPUT_CONTEXT~ to open the menu',
   ['deposit_amount'] = 'deposit Amount',
   ['money_withdraw'] = 'amount withdrawn',
+  ['fast_travel'] = 'press ~INPUT_CONTEXT~ to move quickly.',
+  ['open_pharmacy'] = 'press ~INPUT_CONTEXT~ to open the pharmacy.',
+  ['pharmacy_menu_title'] = 'Pharmacy',
+  ['pharmacy_take'] = 'Take',
+  ['medikit'] = 'medikit',
+  ['bandage'] = 'bandage',
+  ['pills'] = 'aspirin',
+  ['max_item'] = 'you are already carrying enough on yourself.',
+  ['remove_object'] = 'press on ~INPUT_CONTEXT~ to remove l\'object',
   -- F6 Menu
   ['ems_menu'] = 'eMS Menu',
   ['ems_menu_title'] = 'ambulance - EMS Menu',
   ['ems_menu_revive'] = 'revive Player',
   ['ems_menu_putincar'] = 'put in Vehicle',
+  ['ems_menu_small'] = 'heal small wounds',
+  ['ems_menu_big'] = 'to treat serious injuries',
   -- Phone
   ['alert_ambulance'] = 'alert Ambulance',
   -- Death
@@ -44,4 +62,46 @@ Locales['en'] = {
   ['press_respawn'] = 'press [~b~E~w~] to respawn.',
   -- Revive
   ['revive_help'] = 'revive a player',
+  
+    --fines
+  ['fine'] = 'Payment',
+  ['no_players_nearby'] = 'no players nearby',
+  ['ambulance_consultation'] = 'Consultation',
+  ['ambulance_care'] = 'Care',
+  ['ambulance_reanimation'] = 'Resuscitation',
+  ['fine_total'] = 'payment : ',
+  ['ambulance_fines'] = 'Redevation',
+  
+  --NPC
+  ['have_earned'] = 'you have won ~g~$',
+  ['comp_earned'] = 'your company has won ~g~$',
+  ['taking_service'] = 'service plug : ',
+  ['mission_complete'] = 'Mission completed',
+  ['drive_search_pass'] = 'drive in search of ~y~ill',
+  ['customer_found'] = 'you have ~g~find~s~ an illness, drive up\'to this last',
+  ['client_unconcious'] = 'your patient is ~r~unconscious~w~. Look for another one.',
+  ['arrive_dest'] = 'you are ~g~arrive~s~ to destination',
+  ['take_me_to_near'] = '~w~Take me to~y~ %s~w~, near~y~ %s',
+  ['take_me_to'] = '~w~Take me to~y~ %s',
+  ['close_to_client'] = 'you are close to the sick, approach him',
+  ['return_to_veh'] = 'please go back in your vehicle to continue the mission',
+  
+  -- Item
+  ['used_medikit'] = 'you used 1x medikit',
+  ['used_bandage'] = 'you used 1x bandage',
+  ['used_pills'] = 'you used 1x aspirin',
+  ['not_enough_medikit'] = 'vous n\'have no ~b~medkit~w~.',
+  ['not_enough_bandage'] = 'vous n\'have no ~b~bandage~w~.',
+  ['healed'] = 'you have been treated.',
+  
+   --itemsstock
+  
+  ['quantity'] = 'Quantity',
+  ['quantity_invalid'] = 'Invalid quantity',
+  ['inventory'] = 'Inventory',
+  ['have_withdrawn'] = 'You removed x',
+  ['have_withdrawn'] = 'You removed x',
+  ['you_added'] = 'You added x',
+  ['deposit_stock'] = 'Deposit Stock',
+  ['take_stock'] = 'Take Stock',
 }

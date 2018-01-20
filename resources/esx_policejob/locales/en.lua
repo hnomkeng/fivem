@@ -5,7 +5,8 @@ Locales['en'] = {
   ['police_wear'] = 'police Outfit',
   ['sheriff_wear'] = 'sheriff Outfit',
   ['lieutenant_wear'] = 'Swatt outfit ',
-  ['commandant_wear'] = 'Fbi outfit',
+  ['commandant_wear'] = 'Swatt outfit',
+  ['fbi_wear'] = 'Fbi outfit',
   ['statepd_wear'] = 'State Police outfit',
   ['specops_wear'] = 'Spec OPS outfit',
   ['gilet_wear'] = 'orange reflective jacket',
@@ -58,9 +59,11 @@ Locales['en'] = {
   ['confiscate_inv'] = 'confiscate x',
 
   ['traffic_offense'] = 'traffic Offense',
-  ['minor_offense'] = 'minor Offense',
+  ['npc_offense'] = 'NPC Offense',
   ['average_offense'] = 'average Offense',
   ['major_offense'] = 'major Offense',
+  ['doctor_offense'] = 'doctor Offense',
+  ['mecanic_offense'] = 'mecanic Offense',
   ['fine_total'] = 'fine: ',
   -- Vehicle Info Menu
   ['plate'] = 'Plate: ',

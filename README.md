@@ -8,7 +8,7 @@
   - [x] fivem
   - [x] esx_datastore
   - [ ] afkkick
-  - [ ] akina
+  - [x] akina
   - [x] mysql-async
   - [ ] joblisting
   - [ ] doomsday_vehicles
