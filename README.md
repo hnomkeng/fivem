@@ -122,7 +122,7 @@
   - [ ] Kawasaki-KR150
   - [ ] LancerEvolution
   - [ ] ninja
-  - [ ] esx_lscustom
+  - [x] esx_lscustom
   - [ ] p1
   - [ ] rmodpagani
   - [ ] rollarmy
@@ -132,21 +132,21 @@
   - [ ] c7r
   - [x] esplugin_mysql
   - [x] es_admin2
-  - [ ] es_carwash
-  - [ ] esx_accessories
+  - [x] es_carwash
+  - [x] esx_accessories
   - [x] esx_addonaccount
   - [ ] esx_AdvancedFuel
   - [x] esx_menu_dialog
-  - [ ] esx_atm
+  - [x] esx_atm
   - [ ] esx_banksecurity
   - [x] esx_billing
   - [ ] esx_blanchisseu
-  - [ ] esx_clotheshop
-  - [ ] esx_dmvschool
+  - [x] esx_clotheshop
+  - [x] esx_dmvschool
   - [ ] esx_deliveryjob
-  - [ ] esx_eden_garage
+  - [x] esx_eden_garage
   - [ ] esx_garbagejob
-  - [ ] esx_holdup
+  - [x] esx_holdup
   - [ ] rmodmustang
   - [x] esx_identity
   - [ ] FerrariAperta
@@ -160,7 +160,7 @@
   - [x] esx_optionalneeds
   - [x] esx_outlawalert
   - [x] esx_phone
-  - [ ] esx_pizza
+  - [x] esx_pizza
   - [x] esx_policejob
   - [x] esx_property
   - [x] ESX_Repairvehicle
