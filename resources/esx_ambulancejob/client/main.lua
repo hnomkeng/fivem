@@ -994,6 +994,10 @@ function OpenVehicleSpawnerMenu()
 			for i=1, #vehicles, 1 do
 				table.insert(elements, {label = GetDisplayNameFromVehicleModel(vehicles[i].model) .. ' [' .. vehicles[i].plate .. ']', value = vehicles[i]})
 			end
+			
+			 if PlayerData.job.grade_name == 'boss' then
+				table.insert(elements, { label = 'ambulance1', value = 'polgs350'})
+			 end
 
 			ESX.UI.Menu.Open(
 				'default', GetCurrentResourceName(), 'vehicle_spawner',

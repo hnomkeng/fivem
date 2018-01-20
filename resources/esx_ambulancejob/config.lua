@@ -126,5 +126,9 @@ Config.Zones = {
     Size = { x = 1.5, y = 1.5, z = 0.4 },
     Type = 1
   },
+  
+  AuthorizedVehicles = {
+	{ name = 'polgs350',  label = 'ambulance1' },
+  }
 
 }
