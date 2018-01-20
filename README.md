@@ -29,7 +29,7 @@
   - [ ] bmwM4F82
   - [ ] cron_master
   - [ ] custom
-  - [ ] esx_ambulancejob
+  - [x] esx_ambulancejob
   - [ ] RealisticVehicleFailure
   - [ ] deleteveh
   - [ ] DriftCounter
@@ -63,7 +63,7 @@
   - [ ] name
   - [ ] boxing
   - [ ] Trains
-  - [ ] nb_menuperso
+  - [x] nb_menuperso
   - [ ] nogodmode
   - [ ] r8ppi
   - [ ] object-loader
@@ -152,14 +152,14 @@
   - [ ] FerrariAperta
   - [ ] esx_jailer
   - [ ] esx_license
-  - [ ] baseevents
+  - [x] baseevents
   - [ ] esx_mask
-  - [ ] esx_mecanojob
+  - [x] esx_mecanojob
   - [x] esx_menu_default
   - [x] esx_menu_list
   - [ ] esx_optionalneeds
   - [ ] esx_outlawalert
-  - [ ] esx_phone
+  - [x] esx_phone
   - [ ] esx_pizza
   - [x] esx_policejob
   - [ ] esx_property
@@ -167,7 +167,7 @@
   - [ ] esx_service
   - [ ] esx_shops
   - [ ] esx_sit
-  - [ ] esx_skin
+  - [x] esx_skin
   - [ ] esx_slotmachine
   - [x] esx_society
   - [ ] esx_status

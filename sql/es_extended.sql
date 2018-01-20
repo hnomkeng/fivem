@@ -1,5 +1,3 @@
-USE `essentialmode`;
-
 ALTER TABLE `users`
   ADD COLUMN `name` VARCHAR(255) NULL DEFAULT '' AFTER `money`,
   ADD COLUMN `skin` LONGTEXT NULL AFTER `name`,
@@ -35,7 +33,7 @@ CREATE TABLE `job_grades` (
   PRIMARY KEY (`id`)
 );
 
-INSERT INTO `job_grades` VALUES (1,'unemployed',0,'rsa','RSA',200,'{}','{}');
+INSERT INTO `job_grades` VALUES (1,'unemployed',0,'rsa','Welfare',200,'{}','{}');
 
 CREATE TABLE `jobs` (
 
@@ -46,7 +44,7 @@ CREATE TABLE `jobs` (
   PRIMARY KEY (`id`)
 );
 
-INSERT INTO `jobs` VALUES (1,'unemployed','Chômeur');
+INSERT INTO `jobs` VALUES (1,'unemployed','Unemployed');
 
 CREATE TABLE `user_accounts` (
 
