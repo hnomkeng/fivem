@@ -2190,6 +2190,46 @@ Citizen.CreateThread(function()
   end
 end)
 
+function clearPed()
+    ESX.TriggerServerCallback('esx_skin:getPlayerSkin', function(skin)
+      TriggerEvent('skinchanger:loadSkin', skin)
+    end)
+    ClearAllPedProps(GetPlayerPed(-1))
+end 
+	
+function OpenFederalMenu(player)
+
+  ESX.UI.Menu.Open(
+    'default', GetCurrentResourceName(), 'federal',
+    {
+      title    = 'Sentence Fédérale',
+      align    = 'top-left',
+      elements = {
+        {label = '1 mois',   value = 1},
+        {label = '2 mois',   value = 2},
+        {label = '3 mois',   value = 3},
+        {label = '4 mois',   value = 4},
+        {label = '5 mois',   value = 5},
+        {label = '6 mois',   value = 6},
+        {label = '7 mois',   value = 7},
+        {label = '8 mois',   value = 8},
+        {label = '9 mois',   value = 9},
+        {label = '10 mois',  value = 10},
+        {label = '11 mois',  value = 11},
+        {label = '1 an',     value = 12}
+      },
+    },
+    function(data, menu)
+      Arrest(GetPlayerServerId(player), tonumber(data.current.value)*60)
+      menu.close()
+    end,
+    function(data, menu)
+      menu.close()
+    end
+  )
+
+end
+
 function Arrest(playerID, amount)
   TriggerServerEvent("jail:teleportToJail", playerID, amount)
 end
