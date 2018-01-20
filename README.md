@@ -27,14 +27,14 @@
   - [ ] eden_demarches
   - [ ] co_locvelo
   - [ ] bmwM4F82
-  - [ ] cron_master
+  - [x] cron
   - [ ] custom
   - [x] esx_ambulancejob
   - [ ] RealisticVehicleFailure
   - [ ] deleteveh
   - [ ] DriftCounter
   - [x] essentialmode
-  - [ ] esx_cinema
+  - [x] esx_cinema
   - [ ] Porsche918
   - [ ] mecaheli
   - [x] es_extended
@@ -45,13 +45,13 @@
   - [ ] zentenario
   - [x] fivem-map-hipster
   - [ ] hospital
-  - [ ] esx_basicneeds
+  - [x] esx_basicneeds
   - [ ] gang
   - [ ] gtr
   - [ ] golf
-  - [ ] esx_taxijob
+  - [x] esx_taxijob
   - [ ] hypr9stun
-  - [ ] instance
+  - [x] instance
   - [ ] interactsound
   - [ ] esx_drugs
   - [ ] LoadingScreen
@@ -157,20 +157,20 @@
   - [x] esx_mecanojob
   - [x] esx_menu_default
   - [x] esx_menu_list
-  - [ ] esx_optionalneeds
-  - [ ] esx_outlawalert
+  - [x] esx_optionalneeds
+  - [x] esx_outlawalert
   - [x] esx_phone
   - [ ] esx_pizza
   - [x] esx_policejob
-  - [ ] esx_property
+  - [x] esx_property
   - [ ] ESX_Repairvehicle
-  - [ ] esx_service
-  - [ ] esx_shops
-  - [ ] esx_sit
+  - [x] esx_service
+  - [x] esx_shops
+  - [x] esx_sit
   - [x] esx_skin
   - [ ] esx_slotmachine
   - [x] esx_society
-  - [ ] esx_status
+  - [x] esx_status
   - [ ] esx_tattoosShops
   - [ ] esx_thief
   - [ ] chgaming

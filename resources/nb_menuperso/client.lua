@@ -76,7 +76,7 @@ function OpenPersonnelMenu()
 		end
 				
 		if playergroup == 'mod' or playergroup == 'admin' or playergroup == 'superadmin' or playergroup == 'owner' then
-			table.insert(elements, {label = 'Modération',				value = 'menuperso_modo'})
+			table.insert(elements, {label = 'Moderation',				value = 'menuperso_modo'})
 		end
 		
 		ESX.UI.Menu.Open(
@@ -91,8 +91,8 @@ function OpenPersonnelMenu()
 				local elements = {}
 				
 				if playergroup == 'mod' then
-					table.insert(elements, {label = 'TP sur joueur',    							value = 'menuperso_modo_tp_toplayer'})
-					table.insert(elements, {label = 'TP joueur sur moi',             			value = 'menuperso_modo_tp_playertome'})
+					table.insert(elements, {label = 'TP on player',    							value = 'menuperso_modo_tp_toplayer'})
+					table.insert(elements, {label = 'TP player on me',             			value = 'menuperso_modo_tp_playertome'})
 					--table.insert(elements, {label = 'TP sur coordonées [WIP]',						value = 'menuperso_modo_tp_pos'})
 					--table.insert(elements, {label = 'NoClip',										value = 'menuperso_modo_no_clip'})
 					--table.insert(elements, {label = 'Mode invincible',									value = 'menuperso_modo_godmode'})
@@ -103,8 +103,8 @@ function OpenPersonnelMenu()
 					--table.insert(elements, {label = 'S\'octroyer de l\'argent',						value = 'menuperso_modo_give_money'})
 					--table.insert(elements, {label = 'S\'octroyer de l\'argent (banque)',						value = 'menuperso_modo_give_moneybank'})
 					--table.insert(elements, {label = 'S\'octroyer de l\'argent sale',						value = 'menuperso_modo_give_moneydirty'})
-					table.insert(elements, {label = 'Afficher/Cacher coordonnées',		value = 'menuperso_modo_showcoord'})
-					table.insert(elements, {label = 'Afficher/Cacher noms des joueurs',	value = 'menuperso_modo_showname'})
+					table.insert(elements, {label = 'Show / Hide coordinates',		value = 'menuperso_modo_showcoord'})
+					table.insert(elements, {label = 'Show / hide names of players',	value = 'menuperso_modo_showname'})
 					--table.insert(elements, {label = 'TP sur le marqueur',							value = 'menuperso_modo_tp_marcker'})
 					--table.insert(elements, {label = 'Soigner la personne',					value = 'menuperso_modo_heal_player'})
 					--table.insert(elements, {label = 'Mode spectateur [WIP]',						value = 'menuperso_modo_spec_player'})
@@ -113,54 +113,54 @@ function OpenPersonnelMenu()
 				end
 			
 				if playergroup == 'admin' then
-					table.insert(elements, {label = 'TP sur joueur',    							value = 'menuperso_modo_tp_toplayer'})
-					table.insert(elements, {label = 'TP joueur sur moi',             			value = 'menuperso_modo_tp_playertome'})
+					table.insert(elements, {label = 'TP on player',    							value = 'menuperso_modo_tp_toplayer'})
+					table.insert(elements, {label = 'TP player on me',             			value = 'menuperso_modo_tp_playertome'})
 					--table.insert(elements, {label = 'TP sur coordonées [WIP]',						value = 'menuperso_modo_tp_pos'})
 					table.insert(elements, {label = 'NoClip',										value = 'menuperso_modo_no_clip'})
 					table.insert(elements, {label = 'Mode invincible',									value = 'menuperso_modo_godmode'})
-					table.insert(elements, {label = 'Mode fantôme',								value = 'menuperso_modo_mode_fantome'})
-					table.insert(elements, {label = 'Réparer véhicule',							value = 'menuperso_modo_vehicle_repair'})
-					table.insert(elements, {label = 'Faire apparaître un véhicule',							value = 'menuperso_modo_vehicle_spawn'})
-					table.insert(elements, {label = 'Retourner le véhicule',								value = 'menuperso_modo_vehicle_flip'})
-					table.insert(elements, {label = 'S\'octroyer de l\'argent',						value = 'menuperso_modo_give_money'})
-					table.insert(elements, {label = 'S\'octroyer de l\'argent (banque)',						value = 'menuperso_modo_give_moneybank'})
-					table.insert(elements, {label = 'S\'octroyer de l\'argent sale',						value = 'menuperso_modo_give_moneydirty'})
-					table.insert(elements, {label = 'Afficher/Cacher coordonnées',		value = 'menuperso_modo_showcoord'})
-					table.insert(elements, {label = 'Afficher/Cacher noms des joueurs',	value = 'menuperso_modo_showname'})
-					table.insert(elements, {label = 'TP sur le marqueur',							value = 'menuperso_modo_tp_marcker'})
-					table.insert(elements, {label = 'Soigner la personne',					value = 'menuperso_modo_heal_player'})
+					table.insert(elements, {label = 'Ghost mode',								value = 'menuperso_modo_mode_fantome'})
+					table.insert(elements, {label = 'Repair vehicle',							value = 'menuperso_modo_vehicle_repair'})
+					table.insert(elements, {label = 'Make a vehicle appear',							value = 'menuperso_modo_vehicle_spawn'})
+					table.insert(elements, {label = 'Return the vehicle',								value = 'menuperso_modo_vehicle_flip'})
+					table.insert(elements, {label = 'S\'grant of\'money',						value = 'menuperso_modo_give_money'})
+					table.insert(elements, {label = 'S\'grant of\'money (bank)',						value = 'menuperso_modo_give_moneybank'})
+					table.insert(elements, {label = 'S\'grant of\'money sale',						value = 'menuperso_modo_give_moneydirty'})
+					table.insert(elements, {label = 'Show / Hide coordinates',		value = 'menuperso_modo_showcoord'})
+					table.insert(elements, {label = 'Show / hide names of players',	value = 'menuperso_modo_showname'})
+					table.insert(elements, {label = 'TP on the marker',							value = 'menuperso_modo_tp_marcker'})
+					table.insert(elements, {label = 'Treat the person',					value = 'menuperso_modo_heal_player'})
 					--table.insert(elements, {label = 'Mode spectateur [WIP]',						value = 'menuperso_modo_spec_player'})
-					table.insert(elements, {label = 'Changer l\'apparence',									value = 'menuperso_modo_changer_skin'})
-					table.insert(elements, {label = 'Sauvegarder l\'apparence',									value = 'menuperso_modo_save_skin'})
+					table.insert(elements, {label = 'Change\'apparence',									value = 'menuperso_modo_changer_skin'})
+					table.insert(elements, {label = 'Save\'apparence',									value = 'menuperso_modo_save_skin'})
 				end
 			
 				if playergroup == 'superadmin' or playergroup == 'owner' then
-					table.insert(elements, {label = 'TP sur joueur',    							value = 'menuperso_modo_tp_toplayer'})
-					table.insert(elements, {label = 'TP joueur sur moi',             			value = 'menuperso_modo_tp_playertome'})
-					table.insert(elements, {label = 'TP sur coordonées [WIP]',						value = 'menuperso_modo_tp_pos'})
+					table.insert(elements, {label = 'TP on player',    							value = 'menuperso_modo_tp_toplayer'})
+					table.insert(elements, {label = 'TP player on me',             			value = 'menuperso_modo_tp_playertome'})
+					table.insert(elements, {label = 'TP on coordinates [WIP]',						value = 'menuperso_modo_tp_pos'})
 					table.insert(elements, {label = 'NoClip',										value = 'menuperso_modo_no_clip'})
 					table.insert(elements, {label = 'Mode invincible',									value = 'menuperso_modo_godmode'})
-					table.insert(elements, {label = 'Mode fantôme',								value = 'menuperso_modo_mode_fantome'})
-					table.insert(elements, {label = 'Réparer véhicule',							value = 'menuperso_modo_vehicle_repair'})
-					table.insert(elements, {label = 'Faire apparaître un véhicule',							value = 'menuperso_modo_vehicle_spawn'})
-					table.insert(elements, {label = 'Retourner le véhicule',								value = 'menuperso_modo_vehicle_flip'})
-					table.insert(elements, {label = 'S\'octroyer de l\'argent',						value = 'menuperso_modo_give_money'})
-					table.insert(elements, {label = 'S\'octroyer de l\'argent (banque)',						value = 'menuperso_modo_give_moneybank'})
-					table.insert(elements, {label = 'S\'octroyer de l\'argent sale',						value = 'menuperso_modo_give_moneydirty'})
-					table.insert(elements, {label = 'Afficher/Cacher coordonnées',		value = 'menuperso_modo_showcoord'})
-					table.insert(elements, {label = 'Afficher/Cacher noms des joueurs',	value = 'menuperso_modo_showname'})
-					table.insert(elements, {label = 'TP sur le marqueur',							value = 'menuperso_modo_tp_marcker'})
-					table.insert(elements, {label = 'Soigner la personne',					value = 'menuperso_modo_heal_player'})
-					table.insert(elements, {label = 'Mode spectateur [WIP]',						value = 'menuperso_modo_spec_player'})
-					table.insert(elements, {label = 'Changer l\'apparence',									value = 'menuperso_modo_changer_skin'})
-					table.insert(elements, {label = 'Sauvegarder l\'apparence',									value = 'menuperso_modo_save_skin'})
+					table.insert(elements, {label = 'Ghost mode',								value = 'menuperso_modo_mode_fantome'})
+					table.insert(elements, {label = 'Repair vehicle',							value = 'menuperso_modo_vehicle_repair'})
+					table.insert(elements, {label = 'Make a vehicle appear',							value = 'menuperso_modo_vehicle_spawn'})
+					table.insert(elements, {label = 'Return the vehicle',								value = 'menuperso_modo_vehicle_flip'})
+					table.insert(elements, {label = 'S\'grant of\'money',						value = 'menuperso_modo_give_money'})
+					table.insert(elements, {label = 'S\'grant of\'money (bank)',						value = 'menuperso_modo_give_moneybank'})
+					table.insert(elements, {label = 'S\'grant of\'money sale',						value = 'menuperso_modo_give_moneydirty'})
+					table.insert(elements, {label = 'Show / Hide coordinates',		value = 'menuperso_modo_showcoord'})
+					table.insert(elements, {label = 'Show / hide names of players',	value = 'menuperso_modo_showname'})
+					table.insert(elements, {label = 'TP on the marker',							value = 'menuperso_modo_tp_marcker'})
+					table.insert(elements, {label = 'Treat the person',					value = 'menuperso_modo_heal_player'})
+					table.insert(elements, {label = 'Fashion viewer [WIP]',						value = 'menuperso_modo_spec_player'})
+					table.insert(elements, {label = 'Change\'apparence',									value = 'menuperso_modo_changer_skin'})
+					table.insert(elements, {label = 'Save\'apparence',									value = 'menuperso_modo_save_skin'})
 				end
 
 				if data.current.value == 'menuperso_modo' then
 					ESX.UI.Menu.Open(
 						'default', GetCurrentResourceName(), 'menuperso_modo',
 						{
-							title    = 'Modération',
+							title    = 'Moderation',
 							align    = 'top-left',
 							elements = elements
 						},
@@ -253,15 +253,15 @@ function OpenPersonnelMenu()
 	
 					local elements = {}
 					
-					table.insert(elements, {label = 'Téléphone',    							value = 'menuperso_moi_telephone'})
-					table.insert(elements, {label = 'Inventaire',             					value = 'menuperso_moi_inventaire'})
-					table.insert(elements, {label = 'Mes factures',							value = 'menuperso_moi_factures'})
+					table.insert(elements, {label = 'Telephone',    							value = 'menuperso_moi_telephone'})
+					table.insert(elements, {label = 'Inventory',             					value = 'menuperso_moi_inventaire'})
+					table.insert(elements, {label = 'My bills',							value = 'menuperso_moi_factures'})
 						
 					ESX.UI.Menu.Open(
 						
 						'default', GetCurrentResourceName(), 'menuperso_moi',
 						{
-							title    = 'Me concernant',
+							title    = 'About me',
 							align    = 'top-left',
 							elements = elements
 						},
@@ -295,13 +295,13 @@ function OpenPersonnelMenu()
 							title    = 'Actions',
 							align    = 'top-left',
 							elements = {
-								{label = 'Annuler l\'animation',  value = 'menuperso_actions__annuler'},
+								{label = 'Cancel\'animation',  value = 'menuperso_actions__annuler'},
 								--{label = 'Faire ses besoins [WIP]',     value = 'menuperso_actions_pipi'},
-								{label = 'Animations de salutations',  value = 'menuperso_actions_Salute'},
-								{label = 'Animations  d\'humeurs',  value = 'menuperso_actions_Humor'},
-								{label = 'Animations de travail',  value = 'menuperso_actions_Travail'},
-								{label = 'Animations festives',  value = 'menuperso_actions_Festives'},
-								{label = 'Animations diverses',  value = 'menuperso_actions_Others'},
+								{label = 'Greetings animations',  value = 'menuperso_actions_Salute'},
+								{label = 'Animations of moods',  value = 'menuperso_actions_Humor'},
+								{label = 'Work animations',  value = 'menuperso_actions_Travail'},
+								{label = 'Festive animations',  value = 'menuperso_actions_Festives'},
+								{label = 'Various animations',  value = 'menuperso_actions_Others'},
 							},
 						},
 						function(data2, menu2)
@@ -321,13 +321,13 @@ function OpenPersonnelMenu()
 								ESX.UI.Menu.Open(
 									'default', GetCurrentResourceName(), 'menuperso_actions_Salute',
 									{
-										title    = 'Animations de salutations',
+										title    = 'Greetings animations',
 										align    = 'top-left',
 										elements = {
-											{label = 'Saluer',  value = 'menuperso_actions_Salute_saluer'},
-											{label = 'Serrer la main',     value = 'menuperso_actions_Salute_serrerlamain'},
+											{label = 'Greet',  value = 'menuperso_actions_Salute_saluer'},
+											{label = 'Shaking hands',     value = 'menuperso_actions_Salute_serrerlamain'},
 											{label = 'Tape m\'en 5',     value = 'menuperso_actions_Salute_tapeen5'},
-											{label = 'Salut militaire',  value = 'menuperso_actions_Salute_salutmilitaire'},
+											{label = 'Military salute',  value = 'menuperso_actions_Salute_salutmilitaire'},
 										},
 									},
 									function(data3, menu3)
@@ -359,18 +359,18 @@ function OpenPersonnelMenu()
 								ESX.UI.Menu.Open(
 									'default', GetCurrentResourceName(), 'menuperso_actions_Humor',
 									{
-										title    = 'Animations d\'humeurs',
+										title    = 'Animations of moods',
 										align    = 'top-left',
 										elements = {
-											{label = 'Féliciter',  value = 'menuperso_actions_Humor_feliciter'},
+											{label = 'Congratulate',  value = 'menuperso_actions_Humor_feliciter'},
 											{label = 'Super',     value = 'menuperso_actions_Humor_super'},
-											{label = 'Calme-toi',     value = 'menuperso_actions_Humor_calmetoi'},
-											{label = 'Avoir peur',  value = 'menuperso_actions_Humor_avoirpeur'},
-											{label = 'C\'est pas possible !',  value = 'menuperso_actions_Humor_cestpaspossible'},
-											{label = 'Enlacer',  value = 'menuperso_actions_Humor_enlacer'},
-											{label = 'Doigt d\'honneur',  value = 'menuperso_actions_Humor_doightdhonneur'},
-											{label = 'Branleur',  value = 'menuperso_actions_Humor_branleur'},
-											{label = 'Balle dans la tête',  value = 'menuperso_actions_Humor_balledanslatete'},
+											{label = 'Calm down',     value = 'menuperso_actions_Humor_calmetoi'},
+											{label = 'To fear',  value = 'menuperso_actions_Humor_avoirpeur'},
+											{label = 'C\'is not possible !',  value = 'menuperso_actions_Humor_cestpaspossible'},
+											{label = 'embrace',  value = 'menuperso_actions_Humor_enlacer'},
+											{label = 'Finger d\'honor',  value = 'menuperso_actions_Humor_doightdhonneur'},
+											{label = 'wanker',  value = 'menuperso_actions_Humor_branleur'},
+											{label = 'Bullet in the head',  value = 'menuperso_actions_Humor_balledanslatete'},
 										},
 									},
 									function(data3, menu3)
